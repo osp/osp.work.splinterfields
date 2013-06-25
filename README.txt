@@ -1,5 +1,6 @@
-**Splinter Fields**
+**Splinterfields**
 
+<<<<<<< HEAD
 Splinter Fields is an initiative of Brussels based organizations active within the fields of technological and media arts (Constant, FoAM, nadine and OKNO) to foster collaborative, agile and flexible learning. The programme of workshops, study-groups and field-tests is open to artists, designers, technologists and other generalists curious to explore tools and mindware for experiments in contemporary culture and daily life.
 
 
@@ -33,3 +34,6 @@ basic instructions can be found at http://home.gna.org/undertype/manual.pdf
 
 
 
+=======
+Splinterfields is an initiative of Brussels based organizations active within the fields of technological and media arts (Constant, FoAM, nadine and OKNO) to foster collaborative, agile and flexible learning. The programme of workshops, study-groups and field-tests is open to artists, designers, technologists and other generalists curious to explore tools and mindware for experiments in contemporary culture and daily life.
+>>>>>>> a37e415389a89ff3d583728bb1ac5cbc2030c95d
