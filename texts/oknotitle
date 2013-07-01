@@ -376,381 +376,6 @@
 	<index>370</index>	<key>rightquoteaccent</key>
 </collection>
 <collection>
-<fontfile>/home/sarah/fonts/IMFePIrm28P.ttf</fontfile>
-<name>IM FELL DW PicaRegular (9)</name>
-<size>9</size>
-	<index>1</index>	<key>.null</key>
-	<index>2</index>	<key>nonmarkingreturn</key>
-	<index>3</index>	<key>space</key>
-	<index>4</index>	<key>exclam</key>
-	<index>5</index>	<key>quotedbl</key>
-	<index>6</index>	<key>numbersign</key>
-	<index>7</index>	<key>dollar</key>
-	<index>8</index>	<key>percent</key>
-	<index>9</index>	<key>ampersand</key>
-	<index>10</index>	<key>quotesingle</key>
-	<index>11</index>	<key>parenleft</key>
-	<index>12</index>	<key>parenright</key>
-	<index>13</index>	<key>asterisk</key>
-	<index>14</index>	<key>plus</key>
-	<index>15</index>	<key>comma</key>
-	<index>16</index>	<key>hyphen</key>
-	<index>17</index>	<key>period</key>
-	<index>18</index>	<key>slash</key>
-	<index>19</index>	<key>zero</key>
-	<index>20</index>	<key>one</key>
-	<index>21</index>	<key>two</key>
-	<index>22</index>	<key>three</key>
-	<index>23</index>	<key>four</key>
-	<index>24</index>	<key>five</key>
-	<index>25</index>	<key>six</key>
-	<index>26</index>	<key>seven</key>
-	<index>27</index>	<key>eight</key>
-	<index>28</index>	<key>nine</key>
-	<index>29</index>	<key>colon</key>
-	<index>30</index>	<key>semicolon</key>
-	<index>31</index>	<key>less</key>
-	<index>32</index>	<key>equal</key>
-	<index>33</index>	<key>greater</key>
-	<index>34</index>	<key>question</key>
-	<index>35</index>	<key>at</key>
-	<index>36</index>	<key>A</key>
-	<index>37</index>	<key>B</key>
-	<index>38</index>	<key>C</key>
-	<index>39</index>	<key>D</key>
-	<index>40</index>	<key>E</key>
-	<index>41</index>	<key>F</key>
-	<index>42</index>	<key>G</key>
-	<index>43</index>	<key>H</key>
-	<index>44</index>	<key>I</key>
-	<index>45</index>	<key>J</key>
-	<index>46</index>	<key>K</key>
-	<index>47</index>	<key>L</key>
-	<index>48</index>	<key>M</key>
-	<index>49</index>	<key>N</key>
-	<index>50</index>	<key>O</key>
-	<index>51</index>	<key>P</key>
-	<index>52</index>	<key>Q</key>
-	<index>53</index>	<key>R</key>
-	<index>54</index>	<key>S</key>
-	<index>55</index>	<key>T</key>
-	<index>56</index>	<key>U</key>
-	<index>57</index>	<key>V</key>
-	<index>58</index>	<key>W</key>
-	<index>59</index>	<key>X</key>
-	<index>60</index>	<key>Y</key>
-	<index>61</index>	<key>Z</key>
-	<index>62</index>	<key>bracketleft</key>
-	<index>63</index>	<key>backslash</key>
-	<index>64</index>	<key>bracketright</key>
-	<index>65</index>	<key>asciicircum</key>
-	<index>66</index>	<key>underscore</key>
-	<index>67</index>	<key>grave</key>
-	<index>68</index>	<key>a</key>
-	<index>69</index>	<key>b</key>
-	<index>70</index>	<key>c</key>
-	<index>71</index>	<key>d</key>
-	<index>72</index>	<key>e</key>
-	<index>73</index>	<key>f</key>
-	<index>74</index>	<key>g</key>
-	<index>75</index>	<key>h</key>
-	<index>76</index>	<key>i</key>
-	<index>77</index>	<key>j</key>
-	<index>78</index>	<key>k</key>
-	<index>79</index>	<key>l</key>
-	<index>80</index>	<key>m</key>
-	<index>81</index>	<key>n</key>
-	<index>82</index>	<key>o</key>
-	<index>83</index>	<key>p</key>
-	<index>84</index>	<key>q</key>
-	<index>85</index>	<key>r</key>
-	<index>86</index>	<key>s</key>
-	<index>87</index>	<key>t</key>
-	<index>88</index>	<key>u</key>
-	<index>89</index>	<key>v</key>
-	<index>90</index>	<key>w</key>
-	<index>91</index>	<key>x</key>
-	<index>92</index>	<key>y</key>
-	<index>93</index>	<key>z</key>
-	<index>94</index>	<key>braceleft</key>
-	<index>95</index>	<key>bar</key>
-	<index>96</index>	<key>braceright</key>
-	<index>97</index>	<key>asciitilde</key>
-	<index>98</index>	<key>exclamdown</key>
-	<index>99</index>	<key>cent</key>
-	<index>100</index>	<key>sterling</key>
-	<index>101</index>	<key>currency</key>
-	<index>102</index>	<key>yen</key>
-	<index>103</index>	<key>brokenbar</key>
-	<index>104</index>	<key>section</key>
-	<index>105</index>	<key>dieresis</key>
-	<index>106</index>	<key>copyright</key>
-	<index>107</index>	<key>ordfeminine</key>
-	<index>108</index>	<key>guillemotleft</key>
-	<index>109</index>	<key>logicalnot</key>
-	<index>110</index>	<key>registered</key>
-	<index>111</index>	<key>macron</key>
-	<index>112</index>	<key>degree</key>
-	<index>113</index>	<key>plusminus</key>
-	<index>114</index>	<key>twosuperior</key>
-	<index>115</index>	<key>threesuperior</key>
-	<index>116</index>	<key>acute</key>
-	<index>117</index>	<key>mu</key>
-	<index>118</index>	<key>paragraph</key>
-	<index>119</index>	<key>periodcentered</key>
-	<index>120</index>	<key>cedilla</key>
-	<index>121</index>	<key>onesuperior</key>
-	<index>122</index>	<key>ordmasculine</key>
-	<index>123</index>	<key>guillemotright</key>
-	<index>124</index>	<key>onequarter</key>
-	<index>125</index>	<key>onehalf</key>
-	<index>126</index>	<key>threequarters</key>
-	<index>127</index>	<key>questiondown</key>
-	<index>128</index>	<key>Agrave</key>
-	<index>129</index>	<key>Aacute</key>
-	<index>130</index>	<key>Acircumflex</key>
-	<index>131</index>	<key>Atilde</key>
-	<index>132</index>	<key>Adieresis</key>
-	<index>133</index>	<key>Aring</key>
-	<index>134</index>	<key>AE</key>
-	<index>135</index>	<key>Ccedilla</key>
-	<index>136</index>	<key>Egrave</key>
-	<index>137</index>	<key>Eacute</key>
-	<index>138</index>	<key>Ecircumflex</key>
-	<index>139</index>	<key>Edieresis</key>
-	<index>140</index>	<key>Igrave</key>
-	<index>141</index>	<key>Iacute</key>
-	<index>142</index>	<key>Icircumflex</key>
-	<index>143</index>	<key>Idieresis</key>
-	<index>144</index>	<key>Eth</key>
-	<index>145</index>	<key>Ntilde</key>
-	<index>146</index>	<key>Ograve</key>
-	<index>147</index>	<key>Oacute</key>
-	<index>148</index>	<key>Ocircumflex</key>
-	<index>149</index>	<key>Otilde</key>
-	<index>150</index>	<key>Odieresis</key>
-	<index>151</index>	<key>multiply</key>
-	<index>152</index>	<key>Oslash</key>
-	<index>153</index>	<key>Ugrave</key>
-	<index>154</index>	<key>Uacute</key>
-	<index>155</index>	<key>Ucircumflex</key>
-	<index>156</index>	<key>Udieresis</key>
-	<index>157</index>	<key>Yacute</key>
-	<index>158</index>	<key>Thorn</key>
-	<index>159</index>	<key>germandbls</key>
-	<index>160</index>	<key>agrave</key>
-	<index>161</index>	<key>aacute</key>
-	<index>162</index>	<key>acircumflex</key>
-	<index>163</index>	<key>atilde</key>
-	<index>164</index>	<key>adieresis</key>
-	<index>165</index>	<key>aring</key>
-	<index>166</index>	<key>ae</key>
-	<index>167</index>	<key>ccedilla</key>
-	<index>168</index>	<key>egrave</key>
-	<index>169</index>	<key>eacute</key>
-	<index>170</index>	<key>ecircumflex</key>
-	<index>171</index>	<key>edieresis</key>
-	<index>172</index>	<key>igrave</key>
-	<index>173</index>	<key>iacute</key>
-	<index>174</index>	<key>icircumflex</key>
-	<index>175</index>	<key>idieresis</key>
-	<index>176</index>	<key>eth</key>
-	<index>177</index>	<key>ntilde</key>
-	<index>178</index>	<key>ograve</key>
-	<index>179</index>	<key>oacute</key>
-	<index>180</index>	<key>ocircumflex</key>
-	<index>181</index>	<key>otilde</key>
-	<index>182</index>	<key>odieresis</key>
-	<index>183</index>	<key>divide</key>
-	<index>184</index>	<key>oslash</key>
-	<index>185</index>	<key>ugrave</key>
-	<index>186</index>	<key>uacute</key>
-	<index>187</index>	<key>ucircumflex</key>
-	<index>188</index>	<key>udieresis</key>
-	<index>189</index>	<key>yacute</key>
-	<index>190</index>	<key>thorn</key>
-	<index>191</index>	<key>ydieresis</key>
-	<index>192</index>	<key>Amacron</key>
-	<index>193</index>	<key>amacron</key>
-	<index>194</index>	<key>Abreve</key>
-	<index>195</index>	<key>abreve</key>
-	<index>196</index>	<key>Aogonek</key>
-	<index>197</index>	<key>aogonek</key>
-	<index>198</index>	<key>Cacute</key>
-	<index>199</index>	<key>cacute</key>
-	<index>200</index>	<key>Ccaron</key>
-	<index>201</index>	<key>ccaron</key>
-	<index>202</index>	<key>Dcaron</key>
-	<index>203</index>	<key>dcaron</key>
-	<index>204</index>	<key>Dcroat</key>
-	<index>205</index>	<key>dcroat</key>
-	<index>206</index>	<key>Emacron</key>
-	<index>207</index>	<key>emacron</key>
-	<index>208</index>	<key>Edotaccent</key>
-	<index>209</index>	<key>edotaccent</key>
-	<index>210</index>	<key>Eogonek</key>
-	<index>211</index>	<key>eogonek</key>
-	<index>212</index>	<key>Ecaron</key>
-	<index>213</index>	<key>ecaron</key>
-	<index>214</index>	<key>Gbreve</key>
-	<index>215</index>	<key>gbreve</key>
-	<index>216</index>	<key>Gcommaaccent</key>
-	<index>217</index>	<key>gcommaaccent</key>
-	<index>218</index>	<key>Imacron</key>
-	<index>219</index>	<key>imacron</key>
-	<index>220</index>	<key>Iogonek</key>
-	<index>221</index>	<key>iogonek</key>
-	<index>222</index>	<key>Idotaccent</key>
-	<index>223</index>	<key>dotlessi</key>
-	<index>224</index>	<key>Kcommaaccent</key>
-	<index>225</index>	<key>kcommaaccent</key>
-	<index>226</index>	<key>Lacute</key>
-	<index>227</index>	<key>lacute</key>
-	<index>228</index>	<key>Lcommaaccent</key>
-	<index>229</index>	<key>lcommaaccent</key>
-	<index>230</index>	<key>Lcaron</key>
-	<index>231</index>	<key>lcaron</key>
-	<index>232</index>	<key>Lslash</key>
-	<index>233</index>	<key>lslash</key>
-	<index>234</index>	<key>Nacute</key>
-	<index>235</index>	<key>nacute</key>
-	<index>236</index>	<key>Ncommaaccent</key>
-	<index>237</index>	<key>ncommaaccent</key>
-	<index>238</index>	<key>Ncaron</key>
-	<index>239</index>	<key>ncaron</key>
-	<index>240</index>	<key>Omacron</key>
-	<index>241</index>	<key>omacron</key>
-	<index>242</index>	<key>Ohungarumlaut</key>
-	<index>243</index>	<key>ohungarumlaut</key>
-	<index>244</index>	<key>OE</key>
-	<index>245</index>	<key>oe</key>
-	<index>246</index>	<key>Racute</key>
-	<index>247</index>	<key>racute</key>
-	<index>248</index>	<key>Rcommaaccent</key>
-	<index>249</index>	<key>rcommaaccent</key>
-	<index>250</index>	<key>Rcaron</key>
-	<index>251</index>	<key>rcaron</key>
-	<index>252</index>	<key>Sacute</key>
-	<index>253</index>	<key>sacute</key>
-	<index>254</index>	<key>Scedilla</key>
-	<index>255</index>	<key>scedilla</key>
-	<index>256</index>	<key>Scaron</key>
-	<index>257</index>	<key>scaron</key>
-	<index>258</index>	<key>Tcommaaccent</key>
-	<index>259</index>	<key>tcommaaccent</key>
-	<index>260</index>	<key>Tcaron</key>
-	<index>261</index>	<key>tcaron</key>
-	<index>262</index>	<key>Umacron</key>
-	<index>263</index>	<key>umacron</key>
-	<index>264</index>	<key>Uring</key>
-	<index>265</index>	<key>uring</key>
-	<index>266</index>	<key>Uhungarumlaut</key>
-	<index>267</index>	<key>uhungarumlaut</key>
-	<index>268</index>	<key>Uogonek</key>
-	<index>269</index>	<key>uogonek</key>
-	<index>270</index>	<key>Wcircumflex</key>
-	<index>271</index>	<key>wcircumflex</key>
-	<index>272</index>	<key>Ycircumflex</key>
-	<index>273</index>	<key>ycircumflex</key>
-	<index>274</index>	<key>Ydieresis</key>
-	<index>275</index>	<key>Zacute</key>
-	<index>276</index>	<key>zacute</key>
-	<index>277</index>	<key>Zdotaccent</key>
-	<index>278</index>	<key>zdotaccent</key>
-	<index>279</index>	<key>Zcaron</key>
-	<index>280</index>	<key>zcaron</key>
-	<index>281</index>	<key>longs</key>
-	<index>282</index>	<key>florin</key>
-	<index>283</index>	<key>Scommaaccent</key>
-	<index>284</index>	<key>scommaaccent</key>
-	<index>285</index>	<key>circumflex</key>
-	<index>286</index>	<key>caron</key>
-	<index>287</index>	<key>breve</key>
-	<index>288</index>	<key>dotaccent</key>
-	<index>289</index>	<key>ring</key>
-	<index>290</index>	<key>ogonek</key>
-	<index>291</index>	<key>tilde</key>
-	<index>292</index>	<key>hungarumlaut</key>
-	<index>293</index>	<key>commaaccent</key>
-	<index>294</index>	<key>Wgrave</key>
-	<index>295</index>	<key>wgrave</key>
-	<index>296</index>	<key>Wacute</key>
-	<index>297</index>	<key>wacute</key>
-	<index>298</index>	<key>Wdieresis</key>
-	<index>299</index>	<key>wdieresis</key>
-	<index>300</index>	<key>Ygrave</key>
-	<index>301</index>	<key>ygrave</key>
-	<index>302</index>	<key>endash</key>
-	<index>303</index>	<key>emdash</key>
-	<index>304</index>	<key>quoteleft</key>
-	<index>305</index>	<key>quoteright</key>
-	<index>306</index>	<key>quotesinglbase</key>
-	<index>307</index>	<key>quotedblleft</key>
-	<index>308</index>	<key>quotedblright</key>
-	<index>309</index>	<key>quotedblbase</key>
-	<index>310</index>	<key>dagger</key>
-	<index>311</index>	<key>daggerdbl</key>
-	<index>312</index>	<key>bullet</key>
-	<index>313</index>	<key>ellipsis</key>
-	<index>314</index>	<key>perthousand</key>
-	<index>315</index>	<key>guilsinglleft</key>
-	<index>316</index>	<key>guilsinglright</key>
-	<index>317</index>	<key>fraction</key>
-	<index>318</index>	<key>euro</key>
-	<index>319</index>	<key>trademark</key>
-	<index>320</index>	<key>onethird</key>
-	<index>321</index>	<key>twothirds</key>
-	<index>322</index>	<key>oneeighth</key>
-	<index>323</index>	<key>threeeighths</key>
-	<index>324</index>	<key>fiveeighths</key>
-	<index>325</index>	<key>seveneighths</key>
-	<index>326</index>	<key>toleft</key>
-	<index>327</index>	<key>toright</key>
-	<index>328</index>	<key>c_t</key>
-	<index>329</index>	<key>l_l</key>
-	<index>330</index>	<key>longs_longs_i</key>
-	<index>331</index>	<key>longs_longs_l</key>
-	<index>332</index>	<key>longs_h</key>
-	<index>333</index>	<key>longs_longs</key>
-	<index>334</index>	<key>longs_i</key>
-	<index>335</index>	<key>longs_l</key>
-	<index>336</index>	<key>cross</key>
-	<index>337</index>	<key>idotaccent</key>
-	<index>338</index>	<key>oxfordarm1</key>
-	<index>339</index>	<key>oxfordarm2</key>
-	<index>340</index>	<key>leaf</key>
-	<index>341</index>	<key>TFT</key>
-	<index>342</index>	<key>f_f</key>
-	<index>343</index>	<key>fi</key>
-	<index>344</index>	<key>fl</key>
-	<index>345</index>	<key>f_f_i</key>
-	<index>346</index>	<key>f_f_l</key>
-	<index>347</index>	<key>longs_t</key>
-	<index>348</index>	<key>zerosmall</key>
-	<index>349</index>	<key>onesmall</key>
-	<index>350</index>	<key>twosmall</key>
-	<index>351</index>	<key>threesmall</key>
-	<index>352</index>	<key>foursmall</key>
-	<index>353</index>	<key>fivesmall</key>
-	<index>354</index>	<key>sixsmall</key>
-	<index>355</index>	<key>sevensmall</key>
-	<index>356</index>	<key>eightsmall</key>
-	<index>357</index>	<key>ninesmall</key>
-	<index>358</index>	<key>Grave</key>
-	<index>359</index>	<key>Acute</key>
-	<index>360</index>	<key>Circumflex</key>
-	<index>361</index>	<key>Tilde</key>
-	<index>362</index>	<key>Dieresis</key>
-	<index>363</index>	<key>Ring</key>
-	<index>364</index>	<key>Caron</key>
-	<index>365</index>	<key>Macron</key>
-	<index>366</index>	<key>Breve</key>
-	<index>367</index>	<key>Dotaccent</key>
-	<index>368</index>	<key>Hungarumlaut</key>
-	<index>369</index>	<key>leftquoteaccent</key>
-	<index>370</index>	<key>rightquoteaccent</key>
-</collection>
-<collection>
 <fontfile>/home/sarah/fonts/sawasdee/Sawasdee-Bold.ttf</fontfile>
 <name>SawasdeeBold (11)</name>
 <size>11</size>
@@ -2158,683 +1783,6 @@
 	<index>359</index>	<key>zerowidthjoiner</key>
 	<index>360</index>	<key>afii299</key>
 	<index>361</index>	<key>afii300</key>
-</collection>
-<collection>
-<fontfile>/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf</fontfile>
-<name>Liberation MonoRegular (11)</name>
-<size>11</size>
-	<index>1</index>	<key>.null</key>
-	<index>2</index>	<key>nonmarkingreturn</key>
-	<index>3</index>	<key>uni00A0</key>
-	<index>4</index>	<key>exclam</key>
-	<index>5</index>	<key>quotedbl</key>
-	<index>6</index>	<key>numbersign</key>
-	<index>7</index>	<key>dollar</key>
-	<index>8</index>	<key>percent</key>
-	<index>9</index>	<key>ampersand</key>
-	<index>10</index>	<key>quotesingle</key>
-	<index>11</index>	<key>parenleft</key>
-	<index>12</index>	<key>parenright</key>
-	<index>13</index>	<key>asterisk</key>
-	<index>14</index>	<key>plus</key>
-	<index>15</index>	<key>comma</key>
-	<index>16</index>	<key>uni00AD</key>
-	<index>17</index>	<key>period</key>
-	<index>18</index>	<key>slash</key>
-	<index>19</index>	<key>zero</key>
-	<index>20</index>	<key>one</key>
-	<index>21</index>	<key>two</key>
-	<index>22</index>	<key>three</key>
-	<index>23</index>	<key>four</key>
-	<index>24</index>	<key>five</key>
-	<index>25</index>	<key>six</key>
-	<index>26</index>	<key>seven</key>
-	<index>27</index>	<key>eight</key>
-	<index>28</index>	<key>nine</key>
-	<index>29</index>	<key>colon</key>
-	<index>30</index>	<key>uni037E</key>
-	<index>31</index>	<key>less</key>
-	<index>32</index>	<key>equal</key>
-	<index>33</index>	<key>greater</key>
-	<index>34</index>	<key>question</key>
-	<index>35</index>	<key>at</key>
-	<index>36</index>	<key>A</key>
-	<index>37</index>	<key>B</key>
-	<index>38</index>	<key>C</key>
-	<index>39</index>	<key>D</key>
-	<index>40</index>	<key>E</key>
-	<index>41</index>	<key>F</key>
-	<index>42</index>	<key>G</key>
-	<index>43</index>	<key>H</key>
-	<index>44</index>	<key>I</key>
-	<index>45</index>	<key>J</key>
-	<index>46</index>	<key>K</key>
-	<index>47</index>	<key>L</key>
-	<index>48</index>	<key>M</key>
-	<index>49</index>	<key>N</key>
-	<index>50</index>	<key>O</key>
-	<index>51</index>	<key>P</key>
-	<index>52</index>	<key>Q</key>
-	<index>53</index>	<key>R</key>
-	<index>54</index>	<key>S</key>
-	<index>55</index>	<key>T</key>
-	<index>56</index>	<key>U</key>
-	<index>57</index>	<key>V</key>
-	<index>58</index>	<key>W</key>
-	<index>59</index>	<key>X</key>
-	<index>60</index>	<key>Y</key>
-	<index>61</index>	<key>Z</key>
-	<index>62</index>	<key>bracketleft</key>
-	<index>63</index>	<key>backslash</key>
-	<index>64</index>	<key>bracketright</key>
-	<index>65</index>	<key>asciicircum</key>
-	<index>66</index>	<key>underscore</key>
-	<index>67</index>	<key>grave</key>
-	<index>68</index>	<key>a</key>
-	<index>69</index>	<key>b</key>
-	<index>70</index>	<key>c</key>
-	<index>71</index>	<key>d</key>
-	<index>72</index>	<key>e</key>
-	<index>73</index>	<key>f</key>
-	<index>74</index>	<key>g</key>
-	<index>75</index>	<key>h</key>
-	<index>76</index>	<key>i</key>
-	<index>77</index>	<key>j</key>
-	<index>78</index>	<key>k</key>
-	<index>79</index>	<key>l</key>
-	<index>80</index>	<key>m</key>
-	<index>81</index>	<key>n</key>
-	<index>82</index>	<key>o</key>
-	<index>83</index>	<key>p</key>
-	<index>84</index>	<key>q</key>
-	<index>85</index>	<key>r</key>
-	<index>86</index>	<key>s</key>
-	<index>87</index>	<key>t</key>
-	<index>88</index>	<key>u</key>
-	<index>89</index>	<key>v</key>
-	<index>90</index>	<key>w</key>
-	<index>91</index>	<key>x</key>
-	<index>92</index>	<key>y</key>
-	<index>93</index>	<key>z</key>
-	<index>94</index>	<key>braceleft</key>
-	<index>95</index>	<key>bar</key>
-	<index>96</index>	<key>braceright</key>
-	<index>97</index>	<key>asciitilde</key>
-	<index>98</index>	<key>exclamdown</key>
-	<index>99</index>	<key>cent</key>
-	<index>100</index>	<key>sterling</key>
-	<index>101</index>	<key>currency</key>
-	<index>102</index>	<key>yen</key>
-	<index>103</index>	<key>brokenbar</key>
-	<index>104</index>	<key>section</key>
-	<index>105</index>	<key>dieresis</key>
-	<index>106</index>	<key>copyright</key>
-	<index>107</index>	<key>ordfeminine</key>
-	<index>108</index>	<key>guillemotleft</key>
-	<index>109</index>	<key>logicalnot</key>
-	<index>110</index>	<key>registered</key>
-	<index>111</index>	<key>macron</key>
-	<index>112</index>	<key>degree</key>
-	<index>113</index>	<key>plusminus</key>
-	<index>114</index>	<key>uni00B2</key>
-	<index>115</index>	<key>uni00B3</key>
-	<index>116</index>	<key>acute</key>
-	<index>117</index>	<key>uni00B5</key>
-	<index>118</index>	<key>paragraph</key>
-	<index>119</index>	<key>periodcentered</key>
-	<index>120</index>	<key>cedilla</key>
-	<index>121</index>	<key>uni00B9</key>
-	<index>122</index>	<key>ordmasculine</key>
-	<index>123</index>	<key>guillemotright</key>
-	<index>124</index>	<key>onequarter</key>
-	<index>125</index>	<key>onehalf</key>
-	<index>126</index>	<key>threequarters</key>
-	<index>127</index>	<key>questiondown</key>
-	<index>128</index>	<key>Agrave</key>
-	<index>129</index>	<key>Aacute</key>
-	<index>130</index>	<key>Acircumflex</key>
-	<index>131</index>	<key>Atilde</key>
-	<index>132</index>	<key>Adieresis</key>
-	<index>133</index>	<key>Aring</key>
-	<index>134</index>	<key>AE</key>
-	<index>135</index>	<key>Ccedilla</key>
-	<index>136</index>	<key>Egrave</key>
-	<index>137</index>	<key>Eacute</key>
-	<index>138</index>	<key>Ecircumflex</key>
-	<index>139</index>	<key>Edieresis</key>
-	<index>140</index>	<key>Igrave</key>
-	<index>141</index>	<key>Iacute</key>
-	<index>142</index>	<key>Icircumflex</key>
-	<index>143</index>	<key>Idieresis</key>
-	<index>144</index>	<key>Eth</key>
-	<index>145</index>	<key>Ntilde</key>
-	<index>146</index>	<key>Ograve</key>
-	<index>147</index>	<key>Oacute</key>
-	<index>148</index>	<key>Ocircumflex</key>
-	<index>149</index>	<key>Otilde</key>
-	<index>150</index>	<key>Odieresis</key>
-	<index>151</index>	<key>multiply</key>
-	<index>152</index>	<key>Oslash</key>
-	<index>153</index>	<key>Ugrave</key>
-	<index>154</index>	<key>Uacute</key>
-	<index>155</index>	<key>Ucircumflex</key>
-	<index>156</index>	<key>Udieresis</key>
-	<index>157</index>	<key>Yacute</key>
-	<index>158</index>	<key>Thorn</key>
-	<index>159</index>	<key>germandbls</key>
-	<index>160</index>	<key>agrave</key>
-	<index>161</index>	<key>aacute</key>
-	<index>162</index>	<key>acircumflex</key>
-	<index>163</index>	<key>atilde</key>
-	<index>164</index>	<key>adieresis</key>
-	<index>165</index>	<key>aring</key>
-	<index>166</index>	<key>ae</key>
-	<index>167</index>	<key>ccedilla</key>
-	<index>168</index>	<key>egrave</key>
-	<index>169</index>	<key>eacute</key>
-	<index>170</index>	<key>ecircumflex</key>
-	<index>171</index>	<key>edieresis</key>
-	<index>172</index>	<key>igrave</key>
-	<index>173</index>	<key>iacute</key>
-	<index>174</index>	<key>icircumflex</key>
-	<index>175</index>	<key>idieresis</key>
-	<index>176</index>	<key>eth</key>
-	<index>177</index>	<key>ntilde</key>
-	<index>178</index>	<key>ograve</key>
-	<index>179</index>	<key>oacute</key>
-	<index>180</index>	<key>ocircumflex</key>
-	<index>181</index>	<key>otilde</key>
-	<index>182</index>	<key>odieresis</key>
-	<index>183</index>	<key>divide</key>
-	<index>184</index>	<key>oslash</key>
-	<index>185</index>	<key>ugrave</key>
-	<index>186</index>	<key>uacute</key>
-	<index>187</index>	<key>ucircumflex</key>
-	<index>188</index>	<key>udieresis</key>
-	<index>189</index>	<key>yacute</key>
-	<index>190</index>	<key>thorn</key>
-	<index>191</index>	<key>ydieresis</key>
-	<index>192</index>	<key>Amacron</key>
-	<index>193</index>	<key>amacron</key>
-	<index>194</index>	<key>Abreve</key>
-	<index>195</index>	<key>abreve</key>
-	<index>196</index>	<key>Aogonek</key>
-	<index>197</index>	<key>aogonek</key>
-	<index>198</index>	<key>Cacute</key>
-	<index>199</index>	<key>cacute</key>
-	<index>200</index>	<key>Ccircumflex</key>
-	<index>201</index>	<key>ccircumflex</key>
-	<index>202</index>	<key>Cdotaccent</key>
-	<index>203</index>	<key>cdotaccent</key>
-	<index>204</index>	<key>Ccaron</key>
-	<index>205</index>	<key>ccaron</key>
-	<index>206</index>	<key>Dcaron</key>
-	<index>207</index>	<key>dcaron</key>
-	<index>208</index>	<key>Dcroat</key>
-	<index>209</index>	<key>dcroat</key>
-	<index>210</index>	<key>Emacron</key>
-	<index>211</index>	<key>emacron</key>
-	<index>212</index>	<key>Ebreve</key>
-	<index>213</index>	<key>ebreve</key>
-	<index>214</index>	<key>Edotaccent</key>
-	<index>215</index>	<key>edotaccent</key>
-	<index>216</index>	<key>Eogonek</key>
-	<index>217</index>	<key>eogonek</key>
-	<index>218</index>	<key>Ecaron</key>
-	<index>219</index>	<key>ecaron</key>
-	<index>220</index>	<key>Gcircumflex</key>
-	<index>221</index>	<key>gcircumflex</key>
-	<index>222</index>	<key>Gbreve</key>
-	<index>223</index>	<key>gbreve</key>
-	<index>224</index>	<key>Gdotaccent</key>
-	<index>225</index>	<key>gdotaccent</key>
-	<index>226</index>	<key>Gcommaaccent</key>
-	<index>227</index>	<key>gcommaaccent</key>
-	<index>228</index>	<key>Hcircumflex</key>
-	<index>229</index>	<key>hcircumflex</key>
-	<index>230</index>	<key>Hbar</key>
-	<index>231</index>	<key>hbar</key>
-	<index>232</index>	<key>Itilde</key>
-	<index>233</index>	<key>itilde</key>
-	<index>234</index>	<key>Imacron</key>
-	<index>235</index>	<key>imacron</key>
-	<index>236</index>	<key>Ibreve</key>
-	<index>237</index>	<key>ibreve</key>
-	<index>238</index>	<key>Iogonek</key>
-	<index>239</index>	<key>iogonek</key>
-	<index>240</index>	<key>Idotaccent</key>
-	<index>241</index>	<key>dotlessi</key>
-	<index>242</index>	<key>IJ</key>
-	<index>243</index>	<key>ij</key>
-	<index>244</index>	<key>Jcircumflex</key>
-	<index>245</index>	<key>jcircumflex</key>
-	<index>246</index>	<key>Kcommaaccent</key>
-	<index>247</index>	<key>kcommaaccent</key>
-	<index>248</index>	<key>kgreenlandic</key>
-	<index>249</index>	<key>Lacute</key>
-	<index>250</index>	<key>lacute</key>
-	<index>251</index>	<key>Lcommaaccent</key>
-	<index>252</index>	<key>lcommaaccent</key>
-	<index>253</index>	<key>Lcaron</key>
-	<index>254</index>	<key>lcaron</key>
-	<index>255</index>	<key>Ldot</key>
-	<index>256</index>	<key>ldot</key>
-	<index>257</index>	<key>Lslash</key>
-	<index>258</index>	<key>lslash</key>
-	<index>259</index>	<key>Nacute</key>
-	<index>260</index>	<key>nacute</key>
-	<index>261</index>	<key>Ncommaaccent</key>
-	<index>262</index>	<key>ncommaaccent</key>
-	<index>263</index>	<key>Ncaron</key>
-	<index>264</index>	<key>ncaron</key>
-	<index>265</index>	<key>napostrophe</key>
-	<index>266</index>	<key>Eng</key>
-	<index>267</index>	<key>eng</key>
-	<index>268</index>	<key>Omacron</key>
-	<index>269</index>	<key>omacron</key>
-	<index>270</index>	<key>Obreve</key>
-	<index>271</index>	<key>obreve</key>
-	<index>272</index>	<key>Ohungarumlaut</key>
-	<index>273</index>	<key>ohungarumlaut</key>
-	<index>274</index>	<key>OE</key>
-	<index>275</index>	<key>oe</key>
-	<index>276</index>	<key>Racute</key>
-	<index>277</index>	<key>racute</key>
-	<index>278</index>	<key>Rcommaaccent</key>
-	<index>279</index>	<key>rcommaaccent</key>
-	<index>280</index>	<key>Rcaron</key>
-	<index>281</index>	<key>rcaron</key>
-	<index>282</index>	<key>Sacute</key>
-	<index>283</index>	<key>sacute</key>
-	<index>284</index>	<key>Scircumflex</key>
-	<index>285</index>	<key>scircumflex</key>
-	<index>286</index>	<key>Scedilla</key>
-	<index>287</index>	<key>scedilla</key>
-	<index>288</index>	<key>Scaron</key>
-	<index>289</index>	<key>scaron</key>
-	<index>290</index>	<key>Tcommaaccent</key>
-	<index>291</index>	<key>tcommaaccent</key>
-	<index>292</index>	<key>Tcaron</key>
-	<index>293</index>	<key>tcaron</key>
-	<index>294</index>	<key>Tbar</key>
-	<index>295</index>	<key>tbar</key>
-	<index>296</index>	<key>Utilde</key>
-	<index>297</index>	<key>utilde</key>
-	<index>298</index>	<key>Umacron</key>
-	<index>299</index>	<key>umacron</key>
-	<index>300</index>	<key>Ubreve</key>
-	<index>301</index>	<key>ubreve</key>
-	<index>302</index>	<key>Uring</key>
-	<index>303</index>	<key>uring</key>
-	<index>304</index>	<key>Uhungarumlaut</key>
-	<index>305</index>	<key>uhungarumlaut</key>
-	<index>306</index>	<key>Uogonek</key>
-	<index>307</index>	<key>uogonek</key>
-	<index>308</index>	<key>Wcircumflex</key>
-	<index>309</index>	<key>wcircumflex</key>
-	<index>310</index>	<key>Ycircumflex</key>
-	<index>311</index>	<key>ycircumflex</key>
-	<index>312</index>	<key>Ydieresis</key>
-	<index>313</index>	<key>Zacute</key>
-	<index>314</index>	<key>zacute</key>
-	<index>315</index>	<key>Zdotaccent</key>
-	<index>316</index>	<key>zdotaccent</key>
-	<index>317</index>	<key>Zcaron</key>
-	<index>318</index>	<key>zcaron</key>
-	<index>319</index>	<key>longs</key>
-	<index>320</index>	<key>florin</key>
-	<index>321</index>	<key>Aringacute</key>
-	<index>322</index>	<key>aringacute</key>
-	<index>323</index>	<key>AEacute</key>
-	<index>324</index>	<key>aeacute</key>
-	<index>325</index>	<key>Oslashacute</key>
-	<index>326</index>	<key>oslashacute</key>
-	<index>327</index>	<key>Scommaaccent</key>
-	<index>328</index>	<key>scommaaccent</key>
-	<index>329</index>	<key>uni021A</key>
-	<index>330</index>	<key>uni021B</key>
-	<index>331</index>	<key>circumflex</key>
-	<index>332</index>	<key>caron</key>
-	<index>333</index>	<key>uni02C9</key>
-	<index>334</index>	<key>breve</key>
-	<index>335</index>	<key>dotaccent</key>
-	<index>336</index>	<key>ring</key>
-	<index>337</index>	<key>ogonek</key>
-	<index>338</index>	<key>tilde</key>
-	<index>339</index>	<key>hungarumlaut</key>
-	<index>340</index>	<key>tonos</key>
-	<index>341</index>	<key>dieresistonos</key>
-	<index>342</index>	<key>Alphatonos</key>
-	<index>343</index>	<key>anoteleia</key>
-	<index>344</index>	<key>Epsilontonos</key>
-	<index>345</index>	<key>Etatonos</key>
-	<index>346</index>	<key>Iotatonos</key>
-	<index>347</index>	<key>Omicrontonos</key>
-	<index>348</index>	<key>Upsilontonos</key>
-	<index>349</index>	<key>Omegatonos</key>
-	<index>350</index>	<key>iotadieresistonos</key>
-	<index>351</index>	<key>Alpha</key>
-	<index>352</index>	<key>Beta</key>
-	<index>353</index>	<key>Gamma</key>
-	<index>354</index>	<key>Delta</key>
-	<index>355</index>	<key>Epsilon</key>
-	<index>356</index>	<key>Zeta</key>
-	<index>357</index>	<key>Eta</key>
-	<index>358</index>	<key>Theta</key>
-	<index>359</index>	<key>Iota</key>
-	<index>360</index>	<key>Kappa</key>
-	<index>361</index>	<key>Lambda</key>
-	<index>362</index>	<key>Mu</key>
-	<index>363</index>	<key>Nu</key>
-	<index>364</index>	<key>Xi</key>
-	<index>365</index>	<key>Omicron</key>
-	<index>366</index>	<key>Pi</key>
-	<index>367</index>	<key>Rho</key>
-	<index>368</index>	<key>Sigma</key>
-	<index>369</index>	<key>Tau</key>
-	<index>370</index>	<key>Upsilon</key>
-	<index>371</index>	<key>Phi</key>
-	<index>372</index>	<key>Chi</key>
-	<index>373</index>	<key>Psi</key>
-	<index>374</index>	<key>Omega</key>
-	<index>375</index>	<key>Iotadieresis</key>
-	<index>376</index>	<key>Upsilondieresis</key>
-	<index>377</index>	<key>alphatonos</key>
-	<index>378</index>	<key>epsilontonos</key>
-	<index>379</index>	<key>etatonos</key>
-	<index>380</index>	<key>iotatonos</key>
-	<index>381</index>	<key>upsilondieresistonos</key>
-	<index>382</index>	<key>alpha</key>
-	<index>383</index>	<key>beta</key>
-	<index>384</index>	<key>gamma</key>
-	<index>385</index>	<key>delta</key>
-	<index>386</index>	<key>epsilon</key>
-	<index>387</index>	<key>zeta</key>
-	<index>388</index>	<key>eta</key>
-	<index>389</index>	<key>theta</key>
-	<index>390</index>	<key>iota</key>
-	<index>391</index>	<key>kappa</key>
-	<index>392</index>	<key>lambda</key>
-	<index>393</index>	<key>mu</key>
-	<index>394</index>	<key>nu</key>
-	<index>395</index>	<key>xi</key>
-	<index>396</index>	<key>omicron</key>
-	<index>397</index>	<key>pi</key>
-	<index>398</index>	<key>rho</key>
-	<index>399</index>	<key>sigma1</key>
-	<index>400</index>	<key>sigma</key>
-	<index>401</index>	<key>tau</key>
-	<index>402</index>	<key>upsilon</key>
-	<index>403</index>	<key>phi</key>
-	<index>404</index>	<key>chi</key>
-	<index>405</index>	<key>psi</key>
-	<index>406</index>	<key>omega</key>
-	<index>407</index>	<key>iotadieresis</key>
-	<index>408</index>	<key>upsilondieresis</key>
-	<index>409</index>	<key>omicrontonos</key>
-	<index>410</index>	<key>upsilontonos</key>
-	<index>411</index>	<key>omegatonos</key>
-	<index>412</index>	<key>uni0400</key>
-	<index>413</index>	<key>afii10023</key>
-	<index>414</index>	<key>afii10051</key>
-	<index>415</index>	<key>afii10052</key>
-	<index>416</index>	<key>afii10053</key>
-	<index>417</index>	<key>afii10054</key>
-	<index>418</index>	<key>afii10055</key>
-	<index>419</index>	<key>afii10056</key>
-	<index>420</index>	<key>afii10057</key>
-	<index>421</index>	<key>afii10058</key>
-	<index>422</index>	<key>afii10059</key>
-	<index>423</index>	<key>afii10060</key>
-	<index>424</index>	<key>afii10061</key>
-	<index>425</index>	<key>uni040D</key>
-	<index>426</index>	<key>afii10062</key>
-	<index>427</index>	<key>afii10145</key>
-	<index>428</index>	<key>afii10017</key>
-	<index>429</index>	<key>afii10018</key>
-	<index>430</index>	<key>afii10019</key>
-	<index>431</index>	<key>afii10020</key>
-	<index>432</index>	<key>afii10021</key>
-	<index>433</index>	<key>afii10022</key>
-	<index>434</index>	<key>afii10024</key>
-	<index>435</index>	<key>afii10025</key>
-	<index>436</index>	<key>afii10026</key>
-	<index>437</index>	<key>afii10027</key>
-	<index>438</index>	<key>afii10028</key>
-	<index>439</index>	<key>afii10029</key>
-	<index>440</index>	<key>afii10030</key>
-	<index>441</index>	<key>afii10031</key>
-	<index>442</index>	<key>afii10032</key>
-	<index>443</index>	<key>afii10033</key>
-	<index>444</index>	<key>afii10034</key>
-	<index>445</index>	<key>afii10035</key>
-	<index>446</index>	<key>afii10036</key>
-	<index>447</index>	<key>afii10037</key>
-	<index>448</index>	<key>afii10038</key>
-	<index>449</index>	<key>afii10039</key>
-	<index>450</index>	<key>afii10040</key>
-	<index>451</index>	<key>afii10041</key>
-	<index>452</index>	<key>afii10042</key>
-	<index>453</index>	<key>afii10043</key>
-	<index>454</index>	<key>afii10044</key>
-	<index>455</index>	<key>afii10045</key>
-	<index>456</index>	<key>afii10046</key>
-	<index>457</index>	<key>afii10047</key>
-	<index>458</index>	<key>afii10048</key>
-	<index>459</index>	<key>afii10049</key>
-	<index>460</index>	<key>afii10065</key>
-	<index>461</index>	<key>afii10066</key>
-	<index>462</index>	<key>afii10067</key>
-	<index>463</index>	<key>afii10068</key>
-	<index>464</index>	<key>afii10069</key>
-	<index>465</index>	<key>afii10070</key>
-	<index>466</index>	<key>afii10072</key>
-	<index>467</index>	<key>afii10073</key>
-	<index>468</index>	<key>afii10074</key>
-	<index>469</index>	<key>afii10075</key>
-	<index>470</index>	<key>afii10076</key>
-	<index>471</index>	<key>afii10077</key>
-	<index>472</index>	<key>afii10078</key>
-	<index>473</index>	<key>afii10079</key>
-	<index>474</index>	<key>afii10080</key>
-	<index>475</index>	<key>afii10081</key>
-	<index>476</index>	<key>afii10082</key>
-	<index>477</index>	<key>afii10083</key>
-	<index>478</index>	<key>afii10084</key>
-	<index>479</index>	<key>afii10085</key>
-	<index>480</index>	<key>afii10086</key>
-	<index>481</index>	<key>afii10087</key>
-	<index>482</index>	<key>afii10088</key>
-	<index>483</index>	<key>afii10089</key>
-	<index>484</index>	<key>afii10090</key>
-	<index>485</index>	<key>afii10091</key>
-	<index>486</index>	<key>afii10092</key>
-	<index>487</index>	<key>afii10093</key>
-	<index>488</index>	<key>afii10094</key>
-	<index>489</index>	<key>afii10095</key>
-	<index>490</index>	<key>afii10096</key>
-	<index>491</index>	<key>afii10097</key>
-	<index>492</index>	<key>uni0450</key>
-	<index>493</index>	<key>afii10071</key>
-	<index>494</index>	<key>afii10099</key>
-	<index>495</index>	<key>afii10100</key>
-	<index>496</index>	<key>afii10101</key>
-	<index>497</index>	<key>afii10102</key>
-	<index>498</index>	<key>afii10103</key>
-	<index>499</index>	<key>afii10104</key>
-	<index>500</index>	<key>afii10105</key>
-	<index>501</index>	<key>afii10106</key>
-	<index>502</index>	<key>afii10107</key>
-	<index>503</index>	<key>afii10108</key>
-	<index>504</index>	<key>afii10109</key>
-	<index>505</index>	<key>uni045D</key>
-	<index>506</index>	<key>afii10110</key>
-	<index>507</index>	<key>afii10193</key>
-	<index>508</index>	<key>afii10050</key>
-	<index>509</index>	<key>afii10098</key>
-	<index>510</index>	<key>Wgrave</key>
-	<index>511</index>	<key>wgrave</key>
-	<index>512</index>	<key>Wacute</key>
-	<index>513</index>	<key>wacute</key>
-	<index>514</index>	<key>Wdieresis</key>
-	<index>515</index>	<key>wdieresis</key>
-	<index>516</index>	<key>Ygrave</key>
-	<index>517</index>	<key>ygrave</key>
-	<index>518</index>	<key>uni2010</key>
-	<index>519</index>	<key>uni2011</key>
-	<index>520</index>	<key>endash</key>
-	<index>521</index>	<key>emdash</key>
-	<index>522</index>	<key>afii00208</key>
-	<index>523</index>	<key>underscoredbl</key>
-	<index>524</index>	<key>quoteleft</key>
-	<index>525</index>	<key>quoteright</key>
-	<index>526</index>	<key>quotesinglbase</key>
-	<index>527</index>	<key>quotereversed</key>
-	<index>528</index>	<key>quotedblleft</key>
-	<index>529</index>	<key>quotedblright</key>
-	<index>530</index>	<key>quotedblbase</key>
-	<index>531</index>	<key>dagger</key>
-	<index>532</index>	<key>daggerdbl</key>
-	<index>533</index>	<key>bullet</key>
-	<index>534</index>	<key>ellipsis</key>
-	<index>535</index>	<key>perthousand</key>
-	<index>536</index>	<key>minute</key>
-	<index>537</index>	<key>second</key>
-	<index>538</index>	<key>guilsinglleft</key>
-	<index>539</index>	<key>guilsinglright</key>
-	<index>540</index>	<key>exclamdbl</key>
-	<index>541</index>	<key>uni203E</key>
-	<index>542</index>	<key>uni2215</key>
-	<index>543</index>	<key>uni207F</key>
-	<index>544</index>	<key>franc</key>
-	<index>545</index>	<key>lira</key>
-	<index>546</index>	<key>peseta</key>
-	<index>547</index>	<key>Euro</key>
-	<index>548</index>	<key>afii61248</key>
-	<index>549</index>	<key>afii61289</key>
-	<index>550</index>	<key>afii61352</key>
-	<index>551</index>	<key>trademark</key>
-	<index>552</index>	<key>uni2126</key>
-	<index>553</index>	<key>estimated</key>
-	<index>554</index>	<key>oneeighth</key>
-	<index>555</index>	<key>threeeighths</key>
-	<index>556</index>	<key>fiveeighths</key>
-	<index>557</index>	<key>seveneighths</key>
-	<index>558</index>	<key>arrowleft</key>
-	<index>559</index>	<key>arrowup</key>
-	<index>560</index>	<key>arrowright</key>
-	<index>561</index>	<key>arrowdown</key>
-	<index>562</index>	<key>arrowboth</key>
-	<index>563</index>	<key>arrowupdn</key>
-	<index>564</index>	<key>arrowupdnbse</key>
-	<index>565</index>	<key>partialdiff</key>
-	<index>566</index>	<key>uni2206</key>
-	<index>567</index>	<key>product</key>
-	<index>568</index>	<key>summation</key>
-	<index>569</index>	<key>minus</key>
-	<index>570</index>	<key>uni2219</key>
-	<index>571</index>	<key>radical</key>
-	<index>572</index>	<key>infinity</key>
-	<index>573</index>	<key>orthogonal</key>
-	<index>574</index>	<key>intersection</key>
-	<index>575</index>	<key>integral</key>
-	<index>576</index>	<key>approxequal</key>
-	<index>577</index>	<key>notequal</key>
-	<index>578</index>	<key>equivalence</key>
-	<index>579</index>	<key>lessequal</key>
-	<index>580</index>	<key>greaterequal</key>
-	<index>581</index>	<key>house</key>
-	<index>582</index>	<key>revlogicalnot</key>
-	<index>583</index>	<key>integraltp</key>
-	<index>584</index>	<key>integralbt</key>
-	<index>585</index>	<key>SF100000</key>
-	<index>586</index>	<key>SF110000</key>
-	<index>587</index>	<key>SF010000</key>
-	<index>588</index>	<key>SF030000</key>
-	<index>589</index>	<key>SF020000</key>
-	<index>590</index>	<key>SF040000</key>
-	<index>591</index>	<key>SF080000</key>
-	<index>592</index>	<key>SF090000</key>
-	<index>593</index>	<key>SF060000</key>
-	<index>594</index>	<key>SF070000</key>
-	<index>595</index>	<key>SF050000</key>
-	<index>596</index>	<key>SF430000</key>
-	<index>597</index>	<key>SF240000</key>
-	<index>598</index>	<key>SF510000</key>
-	<index>599</index>	<key>SF520000</key>
-	<index>600</index>	<key>SF390000</key>
-	<index>601</index>	<key>SF220000</key>
-	<index>602</index>	<key>SF210000</key>
-	<index>603</index>	<key>SF250000</key>
-	<index>604</index>	<key>SF500000</key>
-	<index>605</index>	<key>SF490000</key>
-	<index>606</index>	<key>SF380000</key>
-	<index>607</index>	<key>SF280000</key>
-	<index>608</index>	<key>SF270000</key>
-	<index>609</index>	<key>SF260000</key>
-	<index>610</index>	<key>SF360000</key>
-	<index>611</index>	<key>SF370000</key>
-	<index>612</index>	<key>SF420000</key>
-	<index>613</index>	<key>SF190000</key>
-	<index>614</index>	<key>SF200000</key>
-	<index>615</index>	<key>SF230000</key>
-	<index>616</index>	<key>SF470000</key>
-	<index>617</index>	<key>SF480000</key>
-	<index>618</index>	<key>SF410000</key>
-	<index>619</index>	<key>SF450000</key>
-	<index>620</index>	<key>SF460000</key>
-	<index>621</index>	<key>SF400000</key>
-	<index>622</index>	<key>SF540000</key>
-	<index>623</index>	<key>SF530000</key>
-	<index>624</index>	<key>SF440000</key>
-	<index>625</index>	<key>upblock</key>
-	<index>626</index>	<key>dnblock</key>
-	<index>627</index>	<key>block</key>
-	<index>628</index>	<key>lfblock</key>
-	<index>629</index>	<key>rtblock</key>
-	<index>630</index>	<key>ltshade</key>
-	<index>631</index>	<key>shade</key>
-	<index>632</index>	<key>dkshade</key>
-	<index>633</index>	<key>filledbox</key>
-	<index>634</index>	<key>H22073</key>
-	<index>635</index>	<key>H18543</key>
-	<index>636</index>	<key>H18551</key>
-	<index>637</index>	<key>filledrect</key>
-	<index>638</index>	<key>triagup</key>
-	<index>639</index>	<key>triagrt</key>
-	<index>640</index>	<key>triagdn</key>
-	<index>641</index>	<key>triaglf</key>
-	<index>642</index>	<key>lozenge</key>
-	<index>643</index>	<key>circle</key>
-	<index>644</index>	<key>H18533</key>
-	<index>645</index>	<key>invbullet</key>
-	<index>646</index>	<key>invcircle</key>
-	<index>647</index>	<key>openbullet</key>
-	<index>648</index>	<key>smileface</key>
-	<index>649</index>	<key>invsmileface</key>
-	<index>650</index>	<key>sun</key>
-	<index>651</index>	<key>female</key>
-	<index>652</index>	<key>male</key>
-	<index>653</index>	<key>spade</key>
-	<index>654</index>	<key>club</key>
-	<index>655</index>	<key>heart</key>
-	<index>656</index>	<key>diamond</key>
-	<index>657</index>	<key>musicalnote</key>
-	<index>658</index>	<key>musicalnotedbl</key>
-	<index>659</index>	<key>uniFB01</key>
-	<index>660</index>	<key>uniFB02</key>
-	<index>661</index>	<key>undercommaaccent</key>
-	<index>662</index>	<key>cyrillicbreve</key>
-	<index>663</index>	<key>caroncommaaccent</key>
-	<index>664</index>	<key>commaaccentrotate</key>
-	<index>665</index>	<key>dotlessj</key>
-	<index>666</index>	<key>onefraction</key>
-	<index>667</index>	<key>twofraction</key>
-	<index>668</index>	<key>threefraciton</key>
-	<index>669</index>	<key>fourfraction</key>
-	<index>670</index>	<key>fivefraction</key>
-	<index>671</index>	<key>sevenfraction</key>
-	<index>672</index>	<key>eightfraction</key>
 </collection>
 <group id="1" xpos="40" ypos="27" baseline="13" lineheight="198.42" curpos="34.31" ltr="1">
 <gitem>
@@ -3246,171 +2194,7 @@
 <from>SawasdeeBold (11)</from>
 </gitem>
 </group>
-<group id="5" xpos="40" ypos="79" baseline="13" lineheight="198.42" curpos="151.3" ltr="1">
-<gitem>
-<xpos>0</xpos>
-<ypos>13</ypos>
-<key>h</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>5.79</xpos>
-<ypos>13</ypos>
-<key>t</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>8.93</xpos>
-<ypos>13</ypos>
-<key>t</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>12.07</xpos>
-<ypos>13</ypos>
-<key>p</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>18.62</xpos>
-<ypos>13</ypos>
-<key>colon</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>21.68</xpos>
-<ypos>13</ypos>
-<key>slash</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>27.95</xpos>
-<ypos>13</ypos>
-<key>slash</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>34.22</xpos>
-<ypos>13</ypos>
-<key>s</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>39.09</xpos>
-<ypos>13</ypos>
-<key>e</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>45.44</xpos>
-<ypos>13</ypos>
-<key>e</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>51.79</xpos>
-<ypos>13</ypos>
-<key>d</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>58.34</xpos>
-<ypos>13</ypos>
-<key>s</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>63.21</xpos>
-<ypos>13</ypos>
-<key>u</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>68.96</xpos>
-<ypos>13</ypos>
-<key>n</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>74.75</xpos>
-<ypos>13</ypos>
-<key>d</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>81.3</xpos>
-<ypos>13</ypos>
-<key>e</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>87.65</xpos>
-<ypos>13</ypos>
-<key>r</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>91.61</xpos>
-<ypos>13</ypos>
-<key>g</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>98.14</xpos>
-<ypos>13</ypos>
-<key>r</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>101.713</xpos>
-<ypos>13</ypos>
-<key>o</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>108.6</xpos>
-<ypos>13</ypos>
-<key>u</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>114.35</xpos>
-<ypos>13</ypos>
-<key>n</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>120.14</xpos>
-<ypos>13</ypos>
-<key>d</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>126.69</xpos>
-<ypos>13</ypos>
-<key>period</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>129.75</xpos>
-<ypos>13</ypos>
-<key>n</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>135.54</xpos>
-<ypos>13</ypos>
-<key>e</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-<gitem>
-<xpos>141.89</xpos>
-<ypos>13</ypos>
-<key>t</key>
-<from>SawasdeeBold (11)</from>
-</gitem>
-</group>
-<group id="6" xpos="40" ypos="92" baseline="13" lineheight="198.42" curpos="130.65" ltr="1">
+<group id="5" xpos="40" ypos="92" baseline="13" lineheight="198.42" curpos="130.65" ltr="1">
 <gitem>
 <xpos>0</xpos>
 <ypos>13</ypos>
@@ -3556,5 +2340,229 @@
 <from>SawasdeeBold (11)</from>
 </gitem>
 </group>
-<cursor xpos="40" ypos="118"/><lineh>13</lineh><linew>198.42</linew>
+<group id="6" xpos="40.75" ypos="78.25" baseline="13" lineheight="198.42" curpos="0" ltr="1">
+<gitem>
+<xpos>8.1</xpos>
+<ypos>13</ypos>
+<key>h</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>13.89</xpos>
+<ypos>13</ypos>
+<key>t</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>17.03</xpos>
+<ypos>13</ypos>
+<key>t</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>20.17</xpos>
+<ypos>13</ypos>
+<key>p</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>26.72</xpos>
+<ypos>13</ypos>
+<key>colon</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>29.78</xpos>
+<ypos>13</ypos>
+<key>slash</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>36.05</xpos>
+<ypos>13</ypos>
+<key>slash</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>42.32</xpos>
+<ypos>13</ypos>
+<key>s</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>47.19</xpos>
+<ypos>13</ypos>
+<key>e</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>53.54</xpos>
+<ypos>13</ypos>
+<key>e</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>59.89</xpos>
+<ypos>13</ypos>
+<key>d</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>66.44</xpos>
+<ypos>13</ypos>
+<key>s</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>71.31</xpos>
+<ypos>13</ypos>
+<key>u</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>77.06</xpos>
+<ypos>13</ypos>
+<key>n</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>82.85</xpos>
+<ypos>13</ypos>
+<key>d</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>89.4</xpos>
+<ypos>13</ypos>
+<key>e</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>95.75</xpos>
+<ypos>13</ypos>
+<key>r</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>99.71</xpos>
+<ypos>13</ypos>
+<key>g</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>106.24</xpos>
+<ypos>13</ypos>
+<key>r</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>109.813</xpos>
+<ypos>13</ypos>
+<key>o</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>116.7</xpos>
+<ypos>13</ypos>
+<key>u</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>122.45</xpos>
+<ypos>13</ypos>
+<key>n</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>127.94</xpos>
+<ypos>13</ypos>
+<key>d</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>134.69</xpos>
+<ypos>13</ypos>
+<key>period</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>137.85</xpos>
+<ypos>13</ypos>
+<key>n</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>143.64</xpos>
+<ypos>13</ypos>
+<key>e</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>149.99</xpos>
+<ypos>13</ypos>
+<key>t</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>151.42</xpos>
+<ypos>13</ypos>
+<key>.null</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>151.42</xpos>
+<ypos>13</ypos>
+<key>.null</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>154.62</xpos>
+<ypos>13</ypos>
+<key>.null</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>154.62</xpos>
+<ypos>13</ypos>
+<key>.null</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>154.62</xpos>
+<ypos>13</ypos>
+<key>.null</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>154.62</xpos>
+<ypos>13</ypos>
+<key>.null</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>154.62</xpos>
+<ypos>13</ypos>
+<key>.null</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>154.62</xpos>
+<ypos>13</ypos>
+<key>.null</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>153.62</xpos>
+<ypos>13</ypos>
+<key>emdash</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+<gitem>
+<xpos>0</xpos>
+<ypos>13</ypos>
+<key>emdash</key>
+<from>SawasdeeBold (11)</from>
+</gitem>
+</group>
+<cursor xpos="40" ypos="105"/><lineh>13</lineh><linew>198.42</linew>
 </undertype>
