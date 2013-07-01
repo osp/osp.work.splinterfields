@@ -1,0 +1,3970 @@
+<undertype>
+<page width="595.276" height="841.89"/>
+<collection>
+<fontfile>/home/sarah/fonts/IMFePIrm28P.ttf</fontfile>
+<name>IM FELL DW PicaRegular (9)</name>
+<size>9</size>
+	<index>1</index>	<key>.null</key>
+	<index>2</index>	<key>nonmarkingreturn</key>
+	<index>3</index>	<key>space</key>
+	<index>4</index>	<key>exclam</key>
+	<index>5</index>	<key>quotedbl</key>
+	<index>6</index>	<key>numbersign</key>
+	<index>7</index>	<key>dollar</key>
+	<index>8</index>	<key>percent</key>
+	<index>9</index>	<key>ampersand</key>
+	<index>10</index>	<key>quotesingle</key>
+	<index>11</index>	<key>parenleft</key>
+	<index>12</index>	<key>parenright</key>
+	<index>13</index>	<key>asterisk</key>
+	<index>14</index>	<key>plus</key>
+	<index>15</index>	<key>comma</key>
+	<index>16</index>	<key>hyphen</key>
+	<index>17</index>	<key>period</key>
+	<index>18</index>	<key>slash</key>
+	<index>19</index>	<key>zero</key>
+	<index>20</index>	<key>one</key>
+	<index>21</index>	<key>two</key>
+	<index>22</index>	<key>three</key>
+	<index>23</index>	<key>four</key>
+	<index>24</index>	<key>five</key>
+	<index>25</index>	<key>six</key>
+	<index>26</index>	<key>seven</key>
+	<index>27</index>	<key>eight</key>
+	<index>28</index>	<key>nine</key>
+	<index>29</index>	<key>colon</key>
+	<index>30</index>	<key>semicolon</key>
+	<index>31</index>	<key>less</key>
+	<index>32</index>	<key>equal</key>
+	<index>33</index>	<key>greater</key>
+	<index>34</index>	<key>question</key>
+	<index>35</index>	<key>at</key>
+	<index>36</index>	<key>A</key>
+	<index>37</index>	<key>B</key>
+	<index>38</index>	<key>C</key>
+	<index>39</index>	<key>D</key>
+	<index>40</index>	<key>E</key>
+	<index>41</index>	<key>F</key>
+	<index>42</index>	<key>G</key>
+	<index>43</index>	<key>H</key>
+	<index>44</index>	<key>I</key>
+	<index>45</index>	<key>J</key>
+	<index>46</index>	<key>K</key>
+	<index>47</index>	<key>L</key>
+	<index>48</index>	<key>M</key>
+	<index>49</index>	<key>N</key>
+	<index>50</index>	<key>O</key>
+	<index>51</index>	<key>P</key>
+	<index>52</index>	<key>Q</key>
+	<index>53</index>	<key>R</key>
+	<index>54</index>	<key>S</key>
+	<index>55</index>	<key>T</key>
+	<index>56</index>	<key>U</key>
+	<index>57</index>	<key>V</key>
+	<index>58</index>	<key>W</key>
+	<index>59</index>	<key>X</key>
+	<index>60</index>	<key>Y</key>
+	<index>61</index>	<key>Z</key>
+	<index>62</index>	<key>bracketleft</key>
+	<index>63</index>	<key>backslash</key>
+	<index>64</index>	<key>bracketright</key>
+	<index>65</index>	<key>asciicircum</key>
+	<index>66</index>	<key>underscore</key>
+	<index>67</index>	<key>grave</key>
+	<index>68</index>	<key>a</key>
+	<index>69</index>	<key>b</key>
+	<index>70</index>	<key>c</key>
+	<index>71</index>	<key>d</key>
+	<index>72</index>	<key>e</key>
+	<index>73</index>	<key>f</key>
+	<index>74</index>	<key>g</key>
+	<index>75</index>	<key>h</key>
+	<index>76</index>	<key>i</key>
+	<index>77</index>	<key>j</key>
+	<index>78</index>	<key>k</key>
+	<index>79</index>	<key>l</key>
+	<index>80</index>	<key>m</key>
+	<index>81</index>	<key>n</key>
+	<index>82</index>	<key>o</key>
+	<index>83</index>	<key>p</key>
+	<index>84</index>	<key>q</key>
+	<index>85</index>	<key>r</key>
+	<index>86</index>	<key>s</key>
+	<index>87</index>	<key>t</key>
+	<index>88</index>	<key>u</key>
+	<index>89</index>	<key>v</key>
+	<index>90</index>	<key>w</key>
+	<index>91</index>	<key>x</key>
+	<index>92</index>	<key>y</key>
+	<index>93</index>	<key>z</key>
+	<index>94</index>	<key>braceleft</key>
+	<index>95</index>	<key>bar</key>
+	<index>96</index>	<key>braceright</key>
+	<index>97</index>	<key>asciitilde</key>
+	<index>98</index>	<key>exclamdown</key>
+	<index>99</index>	<key>cent</key>
+	<index>100</index>	<key>sterling</key>
+	<index>101</index>	<key>currency</key>
+	<index>102</index>	<key>yen</key>
+	<index>103</index>	<key>brokenbar</key>
+	<index>104</index>	<key>section</key>
+	<index>105</index>	<key>dieresis</key>
+	<index>106</index>	<key>copyright</key>
+	<index>107</index>	<key>ordfeminine</key>
+	<index>108</index>	<key>guillemotleft</key>
+	<index>109</index>	<key>logicalnot</key>
+	<index>110</index>	<key>registered</key>
+	<index>111</index>	<key>macron</key>
+	<index>112</index>	<key>degree</key>
+	<index>113</index>	<key>plusminus</key>
+	<index>114</index>	<key>twosuperior</key>
+	<index>115</index>	<key>threesuperior</key>
+	<index>116</index>	<key>acute</key>
+	<index>117</index>	<key>mu</key>
+	<index>118</index>	<key>paragraph</key>
+	<index>119</index>	<key>periodcentered</key>
+	<index>120</index>	<key>cedilla</key>
+	<index>121</index>	<key>onesuperior</key>
+	<index>122</index>	<key>ordmasculine</key>
+	<index>123</index>	<key>guillemotright</key>
+	<index>124</index>	<key>onequarter</key>
+	<index>125</index>	<key>onehalf</key>
+	<index>126</index>	<key>threequarters</key>
+	<index>127</index>	<key>questiondown</key>
+	<index>128</index>	<key>Agrave</key>
+	<index>129</index>	<key>Aacute</key>
+	<index>130</index>	<key>Acircumflex</key>
+	<index>131</index>	<key>Atilde</key>
+	<index>132</index>	<key>Adieresis</key>
+	<index>133</index>	<key>Aring</key>
+	<index>134</index>	<key>AE</key>
+	<index>135</index>	<key>Ccedilla</key>
+	<index>136</index>	<key>Egrave</key>
+	<index>137</index>	<key>Eacute</key>
+	<index>138</index>	<key>Ecircumflex</key>
+	<index>139</index>	<key>Edieresis</key>
+	<index>140</index>	<key>Igrave</key>
+	<index>141</index>	<key>Iacute</key>
+	<index>142</index>	<key>Icircumflex</key>
+	<index>143</index>	<key>Idieresis</key>
+	<index>144</index>	<key>Eth</key>
+	<index>145</index>	<key>Ntilde</key>
+	<index>146</index>	<key>Ograve</key>
+	<index>147</index>	<key>Oacute</key>
+	<index>148</index>	<key>Ocircumflex</key>
+	<index>149</index>	<key>Otilde</key>
+	<index>150</index>	<key>Odieresis</key>
+	<index>151</index>	<key>multiply</key>
+	<index>152</index>	<key>Oslash</key>
+	<index>153</index>	<key>Ugrave</key>
+	<index>154</index>	<key>Uacute</key>
+	<index>155</index>	<key>Ucircumflex</key>
+	<index>156</index>	<key>Udieresis</key>
+	<index>157</index>	<key>Yacute</key>
+	<index>158</index>	<key>Thorn</key>
+	<index>159</index>	<key>germandbls</key>
+	<index>160</index>	<key>agrave</key>
+	<index>161</index>	<key>aacute</key>
+	<index>162</index>	<key>acircumflex</key>
+	<index>163</index>	<key>atilde</key>
+	<index>164</index>	<key>adieresis</key>
+	<index>165</index>	<key>aring</key>
+	<index>166</index>	<key>ae</key>
+	<index>167</index>	<key>ccedilla</key>
+	<index>168</index>	<key>egrave</key>
+	<index>169</index>	<key>eacute</key>
+	<index>170</index>	<key>ecircumflex</key>
+	<index>171</index>	<key>edieresis</key>
+	<index>172</index>	<key>igrave</key>
+	<index>173</index>	<key>iacute</key>
+	<index>174</index>	<key>icircumflex</key>
+	<index>175</index>	<key>idieresis</key>
+	<index>176</index>	<key>eth</key>
+	<index>177</index>	<key>ntilde</key>
+	<index>178</index>	<key>ograve</key>
+	<index>179</index>	<key>oacute</key>
+	<index>180</index>	<key>ocircumflex</key>
+	<index>181</index>	<key>otilde</key>
+	<index>182</index>	<key>odieresis</key>
+	<index>183</index>	<key>divide</key>
+	<index>184</index>	<key>oslash</key>
+	<index>185</index>	<key>ugrave</key>
+	<index>186</index>	<key>uacute</key>
+	<index>187</index>	<key>ucircumflex</key>
+	<index>188</index>	<key>udieresis</key>
+	<index>189</index>	<key>yacute</key>
+	<index>190</index>	<key>thorn</key>
+	<index>191</index>	<key>ydieresis</key>
+	<index>192</index>	<key>Amacron</key>
+	<index>193</index>	<key>amacron</key>
+	<index>194</index>	<key>Abreve</key>
+	<index>195</index>	<key>abreve</key>
+	<index>196</index>	<key>Aogonek</key>
+	<index>197</index>	<key>aogonek</key>
+	<index>198</index>	<key>Cacute</key>
+	<index>199</index>	<key>cacute</key>
+	<index>200</index>	<key>Ccaron</key>
+	<index>201</index>	<key>ccaron</key>
+	<index>202</index>	<key>Dcaron</key>
+	<index>203</index>	<key>dcaron</key>
+	<index>204</index>	<key>Dcroat</key>
+	<index>205</index>	<key>dcroat</key>
+	<index>206</index>	<key>Emacron</key>
+	<index>207</index>	<key>emacron</key>
+	<index>208</index>	<key>Edotaccent</key>
+	<index>209</index>	<key>edotaccent</key>
+	<index>210</index>	<key>Eogonek</key>
+	<index>211</index>	<key>eogonek</key>
+	<index>212</index>	<key>Ecaron</key>
+	<index>213</index>	<key>ecaron</key>
+	<index>214</index>	<key>Gbreve</key>
+	<index>215</index>	<key>gbreve</key>
+	<index>216</index>	<key>Gcommaaccent</key>
+	<index>217</index>	<key>gcommaaccent</key>
+	<index>218</index>	<key>Imacron</key>
+	<index>219</index>	<key>imacron</key>
+	<index>220</index>	<key>Iogonek</key>
+	<index>221</index>	<key>iogonek</key>
+	<index>222</index>	<key>Idotaccent</key>
+	<index>223</index>	<key>dotlessi</key>
+	<index>224</index>	<key>Kcommaaccent</key>
+	<index>225</index>	<key>kcommaaccent</key>
+	<index>226</index>	<key>Lacute</key>
+	<index>227</index>	<key>lacute</key>
+	<index>228</index>	<key>Lcommaaccent</key>
+	<index>229</index>	<key>lcommaaccent</key>
+	<index>230</index>	<key>Lcaron</key>
+	<index>231</index>	<key>lcaron</key>
+	<index>232</index>	<key>Lslash</key>
+	<index>233</index>	<key>lslash</key>
+	<index>234</index>	<key>Nacute</key>
+	<index>235</index>	<key>nacute</key>
+	<index>236</index>	<key>Ncommaaccent</key>
+	<index>237</index>	<key>ncommaaccent</key>
+	<index>238</index>	<key>Ncaron</key>
+	<index>239</index>	<key>ncaron</key>
+	<index>240</index>	<key>Omacron</key>
+	<index>241</index>	<key>omacron</key>
+	<index>242</index>	<key>Ohungarumlaut</key>
+	<index>243</index>	<key>ohungarumlaut</key>
+	<index>244</index>	<key>OE</key>
+	<index>245</index>	<key>oe</key>
+	<index>246</index>	<key>Racute</key>
+	<index>247</index>	<key>racute</key>
+	<index>248</index>	<key>Rcommaaccent</key>
+	<index>249</index>	<key>rcommaaccent</key>
+	<index>250</index>	<key>Rcaron</key>
+	<index>251</index>	<key>rcaron</key>
+	<index>252</index>	<key>Sacute</key>
+	<index>253</index>	<key>sacute</key>
+	<index>254</index>	<key>Scedilla</key>
+	<index>255</index>	<key>scedilla</key>
+	<index>256</index>	<key>Scaron</key>
+	<index>257</index>	<key>scaron</key>
+	<index>258</index>	<key>Tcommaaccent</key>
+	<index>259</index>	<key>tcommaaccent</key>
+	<index>260</index>	<key>Tcaron</key>
+	<index>261</index>	<key>tcaron</key>
+	<index>262</index>	<key>Umacron</key>
+	<index>263</index>	<key>umacron</key>
+	<index>264</index>	<key>Uring</key>
+	<index>265</index>	<key>uring</key>
+	<index>266</index>	<key>Uhungarumlaut</key>
+	<index>267</index>	<key>uhungarumlaut</key>
+	<index>268</index>	<key>Uogonek</key>
+	<index>269</index>	<key>uogonek</key>
+	<index>270</index>	<key>Wcircumflex</key>
+	<index>271</index>	<key>wcircumflex</key>
+	<index>272</index>	<key>Ycircumflex</key>
+	<index>273</index>	<key>ycircumflex</key>
+	<index>274</index>	<key>Ydieresis</key>
+	<index>275</index>	<key>Zacute</key>
+	<index>276</index>	<key>zacute</key>
+	<index>277</index>	<key>Zdotaccent</key>
+	<index>278</index>	<key>zdotaccent</key>
+	<index>279</index>	<key>Zcaron</key>
+	<index>280</index>	<key>zcaron</key>
+	<index>281</index>	<key>longs</key>
+	<index>282</index>	<key>florin</key>
+	<index>283</index>	<key>Scommaaccent</key>
+	<index>284</index>	<key>scommaaccent</key>
+	<index>285</index>	<key>circumflex</key>
+	<index>286</index>	<key>caron</key>
+	<index>287</index>	<key>breve</key>
+	<index>288</index>	<key>dotaccent</key>
+	<index>289</index>	<key>ring</key>
+	<index>290</index>	<key>ogonek</key>
+	<index>291</index>	<key>tilde</key>
+	<index>292</index>	<key>hungarumlaut</key>
+	<index>293</index>	<key>commaaccent</key>
+	<index>294</index>	<key>Wgrave</key>
+	<index>295</index>	<key>wgrave</key>
+	<index>296</index>	<key>Wacute</key>
+	<index>297</index>	<key>wacute</key>
+	<index>298</index>	<key>Wdieresis</key>
+	<index>299</index>	<key>wdieresis</key>
+	<index>300</index>	<key>Ygrave</key>
+	<index>301</index>	<key>ygrave</key>
+	<index>302</index>	<key>endash</key>
+	<index>303</index>	<key>emdash</key>
+	<index>304</index>	<key>quoteleft</key>
+	<index>305</index>	<key>quoteright</key>
+	<index>306</index>	<key>quotesinglbase</key>
+	<index>307</index>	<key>quotedblleft</key>
+	<index>308</index>	<key>quotedblright</key>
+	<index>309</index>	<key>quotedblbase</key>
+	<index>310</index>	<key>dagger</key>
+	<index>311</index>	<key>daggerdbl</key>
+	<index>312</index>	<key>bullet</key>
+	<index>313</index>	<key>ellipsis</key>
+	<index>314</index>	<key>perthousand</key>
+	<index>315</index>	<key>guilsinglleft</key>
+	<index>316</index>	<key>guilsinglright</key>
+	<index>317</index>	<key>fraction</key>
+	<index>318</index>	<key>euro</key>
+	<index>319</index>	<key>trademark</key>
+	<index>320</index>	<key>onethird</key>
+	<index>321</index>	<key>twothirds</key>
+	<index>322</index>	<key>oneeighth</key>
+	<index>323</index>	<key>threeeighths</key>
+	<index>324</index>	<key>fiveeighths</key>
+	<index>325</index>	<key>seveneighths</key>
+	<index>326</index>	<key>toleft</key>
+	<index>327</index>	<key>toright</key>
+	<index>328</index>	<key>c_t</key>
+	<index>329</index>	<key>l_l</key>
+	<index>330</index>	<key>longs_longs_i</key>
+	<index>331</index>	<key>longs_longs_l</key>
+	<index>332</index>	<key>longs_h</key>
+	<index>333</index>	<key>longs_longs</key>
+	<index>334</index>	<key>longs_i</key>
+	<index>335</index>	<key>longs_l</key>
+	<index>336</index>	<key>cross</key>
+	<index>337</index>	<key>idotaccent</key>
+	<index>338</index>	<key>oxfordarm1</key>
+	<index>339</index>	<key>oxfordarm2</key>
+	<index>340</index>	<key>leaf</key>
+	<index>341</index>	<key>TFT</key>
+	<index>342</index>	<key>f_f</key>
+	<index>343</index>	<key>fi</key>
+	<index>344</index>	<key>fl</key>
+	<index>345</index>	<key>f_f_i</key>
+	<index>346</index>	<key>f_f_l</key>
+	<index>347</index>	<key>longs_t</key>
+	<index>348</index>	<key>zerosmall</key>
+	<index>349</index>	<key>onesmall</key>
+	<index>350</index>	<key>twosmall</key>
+	<index>351</index>	<key>threesmall</key>
+	<index>352</index>	<key>foursmall</key>
+	<index>353</index>	<key>fivesmall</key>
+	<index>354</index>	<key>sixsmall</key>
+	<index>355</index>	<key>sevensmall</key>
+	<index>356</index>	<key>eightsmall</key>
+	<index>357</index>	<key>ninesmall</key>
+	<index>358</index>	<key>Grave</key>
+	<index>359</index>	<key>Acute</key>
+	<index>360</index>	<key>Circumflex</key>
+	<index>361</index>	<key>Tilde</key>
+	<index>362</index>	<key>Dieresis</key>
+	<index>363</index>	<key>Ring</key>
+	<index>364</index>	<key>Caron</key>
+	<index>365</index>	<key>Macron</key>
+	<index>366</index>	<key>Breve</key>
+	<index>367</index>	<key>Dotaccent</key>
+	<index>368</index>	<key>Hungarumlaut</key>
+	<index>369</index>	<key>leftquoteaccent</key>
+	<index>370</index>	<key>rightquoteaccent</key>
+</collection>
+<collection>
+<fontfile>/home/sarah/fonts/IMFePIrm28P.ttf</fontfile>
+<name>IM FELL DW PicaRegular (9)</name>
+<size>9</size>
+	<index>1</index>	<key>.null</key>
+	<index>2</index>	<key>nonmarkingreturn</key>
+	<index>3</index>	<key>space</key>
+	<index>4</index>	<key>exclam</key>
+	<index>5</index>	<key>quotedbl</key>
+	<index>6</index>	<key>numbersign</key>
+	<index>7</index>	<key>dollar</key>
+	<index>8</index>	<key>percent</key>
+	<index>9</index>	<key>ampersand</key>
+	<index>10</index>	<key>quotesingle</key>
+	<index>11</index>	<key>parenleft</key>
+	<index>12</index>	<key>parenright</key>
+	<index>13</index>	<key>asterisk</key>
+	<index>14</index>	<key>plus</key>
+	<index>15</index>	<key>comma</key>
+	<index>16</index>	<key>hyphen</key>
+	<index>17</index>	<key>period</key>
+	<index>18</index>	<key>slash</key>
+	<index>19</index>	<key>zero</key>
+	<index>20</index>	<key>one</key>
+	<index>21</index>	<key>two</key>
+	<index>22</index>	<key>three</key>
+	<index>23</index>	<key>four</key>
+	<index>24</index>	<key>five</key>
+	<index>25</index>	<key>six</key>
+	<index>26</index>	<key>seven</key>
+	<index>27</index>	<key>eight</key>
+	<index>28</index>	<key>nine</key>
+	<index>29</index>	<key>colon</key>
+	<index>30</index>	<key>semicolon</key>
+	<index>31</index>	<key>less</key>
+	<index>32</index>	<key>equal</key>
+	<index>33</index>	<key>greater</key>
+	<index>34</index>	<key>question</key>
+	<index>35</index>	<key>at</key>
+	<index>36</index>	<key>A</key>
+	<index>37</index>	<key>B</key>
+	<index>38</index>	<key>C</key>
+	<index>39</index>	<key>D</key>
+	<index>40</index>	<key>E</key>
+	<index>41</index>	<key>F</key>
+	<index>42</index>	<key>G</key>
+	<index>43</index>	<key>H</key>
+	<index>44</index>	<key>I</key>
+	<index>45</index>	<key>J</key>
+	<index>46</index>	<key>K</key>
+	<index>47</index>	<key>L</key>
+	<index>48</index>	<key>M</key>
+	<index>49</index>	<key>N</key>
+	<index>50</index>	<key>O</key>
+	<index>51</index>	<key>P</key>
+	<index>52</index>	<key>Q</key>
+	<index>53</index>	<key>R</key>
+	<index>54</index>	<key>S</key>
+	<index>55</index>	<key>T</key>
+	<index>56</index>	<key>U</key>
+	<index>57</index>	<key>V</key>
+	<index>58</index>	<key>W</key>
+	<index>59</index>	<key>X</key>
+	<index>60</index>	<key>Y</key>
+	<index>61</index>	<key>Z</key>
+	<index>62</index>	<key>bracketleft</key>
+	<index>63</index>	<key>backslash</key>
+	<index>64</index>	<key>bracketright</key>
+	<index>65</index>	<key>asciicircum</key>
+	<index>66</index>	<key>underscore</key>
+	<index>67</index>	<key>grave</key>
+	<index>68</index>	<key>a</key>
+	<index>69</index>	<key>b</key>
+	<index>70</index>	<key>c</key>
+	<index>71</index>	<key>d</key>
+	<index>72</index>	<key>e</key>
+	<index>73</index>	<key>f</key>
+	<index>74</index>	<key>g</key>
+	<index>75</index>	<key>h</key>
+	<index>76</index>	<key>i</key>
+	<index>77</index>	<key>j</key>
+	<index>78</index>	<key>k</key>
+	<index>79</index>	<key>l</key>
+	<index>80</index>	<key>m</key>
+	<index>81</index>	<key>n</key>
+	<index>82</index>	<key>o</key>
+	<index>83</index>	<key>p</key>
+	<index>84</index>	<key>q</key>
+	<index>85</index>	<key>r</key>
+	<index>86</index>	<key>s</key>
+	<index>87</index>	<key>t</key>
+	<index>88</index>	<key>u</key>
+	<index>89</index>	<key>v</key>
+	<index>90</index>	<key>w</key>
+	<index>91</index>	<key>x</key>
+	<index>92</index>	<key>y</key>
+	<index>93</index>	<key>z</key>
+	<index>94</index>	<key>braceleft</key>
+	<index>95</index>	<key>bar</key>
+	<index>96</index>	<key>braceright</key>
+	<index>97</index>	<key>asciitilde</key>
+	<index>98</index>	<key>exclamdown</key>
+	<index>99</index>	<key>cent</key>
+	<index>100</index>	<key>sterling</key>
+	<index>101</index>	<key>currency</key>
+	<index>102</index>	<key>yen</key>
+	<index>103</index>	<key>brokenbar</key>
+	<index>104</index>	<key>section</key>
+	<index>105</index>	<key>dieresis</key>
+	<index>106</index>	<key>copyright</key>
+	<index>107</index>	<key>ordfeminine</key>
+	<index>108</index>	<key>guillemotleft</key>
+	<index>109</index>	<key>logicalnot</key>
+	<index>110</index>	<key>registered</key>
+	<index>111</index>	<key>macron</key>
+	<index>112</index>	<key>degree</key>
+	<index>113</index>	<key>plusminus</key>
+	<index>114</index>	<key>twosuperior</key>
+	<index>115</index>	<key>threesuperior</key>
+	<index>116</index>	<key>acute</key>
+	<index>117</index>	<key>mu</key>
+	<index>118</index>	<key>paragraph</key>
+	<index>119</index>	<key>periodcentered</key>
+	<index>120</index>	<key>cedilla</key>
+	<index>121</index>	<key>onesuperior</key>
+	<index>122</index>	<key>ordmasculine</key>
+	<index>123</index>	<key>guillemotright</key>
+	<index>124</index>	<key>onequarter</key>
+	<index>125</index>	<key>onehalf</key>
+	<index>126</index>	<key>threequarters</key>
+	<index>127</index>	<key>questiondown</key>
+	<index>128</index>	<key>Agrave</key>
+	<index>129</index>	<key>Aacute</key>
+	<index>130</index>	<key>Acircumflex</key>
+	<index>131</index>	<key>Atilde</key>
+	<index>132</index>	<key>Adieresis</key>
+	<index>133</index>	<key>Aring</key>
+	<index>134</index>	<key>AE</key>
+	<index>135</index>	<key>Ccedilla</key>
+	<index>136</index>	<key>Egrave</key>
+	<index>137</index>	<key>Eacute</key>
+	<index>138</index>	<key>Ecircumflex</key>
+	<index>139</index>	<key>Edieresis</key>
+	<index>140</index>	<key>Igrave</key>
+	<index>141</index>	<key>Iacute</key>
+	<index>142</index>	<key>Icircumflex</key>
+	<index>143</index>	<key>Idieresis</key>
+	<index>144</index>	<key>Eth</key>
+	<index>145</index>	<key>Ntilde</key>
+	<index>146</index>	<key>Ograve</key>
+	<index>147</index>	<key>Oacute</key>
+	<index>148</index>	<key>Ocircumflex</key>
+	<index>149</index>	<key>Otilde</key>
+	<index>150</index>	<key>Odieresis</key>
+	<index>151</index>	<key>multiply</key>
+	<index>152</index>	<key>Oslash</key>
+	<index>153</index>	<key>Ugrave</key>
+	<index>154</index>	<key>Uacute</key>
+	<index>155</index>	<key>Ucircumflex</key>
+	<index>156</index>	<key>Udieresis</key>
+	<index>157</index>	<key>Yacute</key>
+	<index>158</index>	<key>Thorn</key>
+	<index>159</index>	<key>germandbls</key>
+	<index>160</index>	<key>agrave</key>
+	<index>161</index>	<key>aacute</key>
+	<index>162</index>	<key>acircumflex</key>
+	<index>163</index>	<key>atilde</key>
+	<index>164</index>	<key>adieresis</key>
+	<index>165</index>	<key>aring</key>
+	<index>166</index>	<key>ae</key>
+	<index>167</index>	<key>ccedilla</key>
+	<index>168</index>	<key>egrave</key>
+	<index>169</index>	<key>eacute</key>
+	<index>170</index>	<key>ecircumflex</key>
+	<index>171</index>	<key>edieresis</key>
+	<index>172</index>	<key>igrave</key>
+	<index>173</index>	<key>iacute</key>
+	<index>174</index>	<key>icircumflex</key>
+	<index>175</index>	<key>idieresis</key>
+	<index>176</index>	<key>eth</key>
+	<index>177</index>	<key>ntilde</key>
+	<index>178</index>	<key>ograve</key>
+	<index>179</index>	<key>oacute</key>
+	<index>180</index>	<key>ocircumflex</key>
+	<index>181</index>	<key>otilde</key>
+	<index>182</index>	<key>odieresis</key>
+	<index>183</index>	<key>divide</key>
+	<index>184</index>	<key>oslash</key>
+	<index>185</index>	<key>ugrave</key>
+	<index>186</index>	<key>uacute</key>
+	<index>187</index>	<key>ucircumflex</key>
+	<index>188</index>	<key>udieresis</key>
+	<index>189</index>	<key>yacute</key>
+	<index>190</index>	<key>thorn</key>
+	<index>191</index>	<key>ydieresis</key>
+	<index>192</index>	<key>Amacron</key>
+	<index>193</index>	<key>amacron</key>
+	<index>194</index>	<key>Abreve</key>
+	<index>195</index>	<key>abreve</key>
+	<index>196</index>	<key>Aogonek</key>
+	<index>197</index>	<key>aogonek</key>
+	<index>198</index>	<key>Cacute</key>
+	<index>199</index>	<key>cacute</key>
+	<index>200</index>	<key>Ccaron</key>
+	<index>201</index>	<key>ccaron</key>
+	<index>202</index>	<key>Dcaron</key>
+	<index>203</index>	<key>dcaron</key>
+	<index>204</index>	<key>Dcroat</key>
+	<index>205</index>	<key>dcroat</key>
+	<index>206</index>	<key>Emacron</key>
+	<index>207</index>	<key>emacron</key>
+	<index>208</index>	<key>Edotaccent</key>
+	<index>209</index>	<key>edotaccent</key>
+	<index>210</index>	<key>Eogonek</key>
+	<index>211</index>	<key>eogonek</key>
+	<index>212</index>	<key>Ecaron</key>
+	<index>213</index>	<key>ecaron</key>
+	<index>214</index>	<key>Gbreve</key>
+	<index>215</index>	<key>gbreve</key>
+	<index>216</index>	<key>Gcommaaccent</key>
+	<index>217</index>	<key>gcommaaccent</key>
+	<index>218</index>	<key>Imacron</key>
+	<index>219</index>	<key>imacron</key>
+	<index>220</index>	<key>Iogonek</key>
+	<index>221</index>	<key>iogonek</key>
+	<index>222</index>	<key>Idotaccent</key>
+	<index>223</index>	<key>dotlessi</key>
+	<index>224</index>	<key>Kcommaaccent</key>
+	<index>225</index>	<key>kcommaaccent</key>
+	<index>226</index>	<key>Lacute</key>
+	<index>227</index>	<key>lacute</key>
+	<index>228</index>	<key>Lcommaaccent</key>
+	<index>229</index>	<key>lcommaaccent</key>
+	<index>230</index>	<key>Lcaron</key>
+	<index>231</index>	<key>lcaron</key>
+	<index>232</index>	<key>Lslash</key>
+	<index>233</index>	<key>lslash</key>
+	<index>234</index>	<key>Nacute</key>
+	<index>235</index>	<key>nacute</key>
+	<index>236</index>	<key>Ncommaaccent</key>
+	<index>237</index>	<key>ncommaaccent</key>
+	<index>238</index>	<key>Ncaron</key>
+	<index>239</index>	<key>ncaron</key>
+	<index>240</index>	<key>Omacron</key>
+	<index>241</index>	<key>omacron</key>
+	<index>242</index>	<key>Ohungarumlaut</key>
+	<index>243</index>	<key>ohungarumlaut</key>
+	<index>244</index>	<key>OE</key>
+	<index>245</index>	<key>oe</key>
+	<index>246</index>	<key>Racute</key>
+	<index>247</index>	<key>racute</key>
+	<index>248</index>	<key>Rcommaaccent</key>
+	<index>249</index>	<key>rcommaaccent</key>
+	<index>250</index>	<key>Rcaron</key>
+	<index>251</index>	<key>rcaron</key>
+	<index>252</index>	<key>Sacute</key>
+	<index>253</index>	<key>sacute</key>
+	<index>254</index>	<key>Scedilla</key>
+	<index>255</index>	<key>scedilla</key>
+	<index>256</index>	<key>Scaron</key>
+	<index>257</index>	<key>scaron</key>
+	<index>258</index>	<key>Tcommaaccent</key>
+	<index>259</index>	<key>tcommaaccent</key>
+	<index>260</index>	<key>Tcaron</key>
+	<index>261</index>	<key>tcaron</key>
+	<index>262</index>	<key>Umacron</key>
+	<index>263</index>	<key>umacron</key>
+	<index>264</index>	<key>Uring</key>
+	<index>265</index>	<key>uring</key>
+	<index>266</index>	<key>Uhungarumlaut</key>
+	<index>267</index>	<key>uhungarumlaut</key>
+	<index>268</index>	<key>Uogonek</key>
+	<index>269</index>	<key>uogonek</key>
+	<index>270</index>	<key>Wcircumflex</key>
+	<index>271</index>	<key>wcircumflex</key>
+	<index>272</index>	<key>Ycircumflex</key>
+	<index>273</index>	<key>ycircumflex</key>
+	<index>274</index>	<key>Ydieresis</key>
+	<index>275</index>	<key>Zacute</key>
+	<index>276</index>	<key>zacute</key>
+	<index>277</index>	<key>Zdotaccent</key>
+	<index>278</index>	<key>zdotaccent</key>
+	<index>279</index>	<key>Zcaron</key>
+	<index>280</index>	<key>zcaron</key>
+	<index>281</index>	<key>longs</key>
+	<index>282</index>	<key>florin</key>
+	<index>283</index>	<key>Scommaaccent</key>
+	<index>284</index>	<key>scommaaccent</key>
+	<index>285</index>	<key>circumflex</key>
+	<index>286</index>	<key>caron</key>
+	<index>287</index>	<key>breve</key>
+	<index>288</index>	<key>dotaccent</key>
+	<index>289</index>	<key>ring</key>
+	<index>290</index>	<key>ogonek</key>
+	<index>291</index>	<key>tilde</key>
+	<index>292</index>	<key>hungarumlaut</key>
+	<index>293</index>	<key>commaaccent</key>
+	<index>294</index>	<key>Wgrave</key>
+	<index>295</index>	<key>wgrave</key>
+	<index>296</index>	<key>Wacute</key>
+	<index>297</index>	<key>wacute</key>
+	<index>298</index>	<key>Wdieresis</key>
+	<index>299</index>	<key>wdieresis</key>
+	<index>300</index>	<key>Ygrave</key>
+	<index>301</index>	<key>ygrave</key>
+	<index>302</index>	<key>endash</key>
+	<index>303</index>	<key>emdash</key>
+	<index>304</index>	<key>quoteleft</key>
+	<index>305</index>	<key>quoteright</key>
+	<index>306</index>	<key>quotesinglbase</key>
+	<index>307</index>	<key>quotedblleft</key>
+	<index>308</index>	<key>quotedblright</key>
+	<index>309</index>	<key>quotedblbase</key>
+	<index>310</index>	<key>dagger</key>
+	<index>311</index>	<key>daggerdbl</key>
+	<index>312</index>	<key>bullet</key>
+	<index>313</index>	<key>ellipsis</key>
+	<index>314</index>	<key>perthousand</key>
+	<index>315</index>	<key>guilsinglleft</key>
+	<index>316</index>	<key>guilsinglright</key>
+	<index>317</index>	<key>fraction</key>
+	<index>318</index>	<key>euro</key>
+	<index>319</index>	<key>trademark</key>
+	<index>320</index>	<key>onethird</key>
+	<index>321</index>	<key>twothirds</key>
+	<index>322</index>	<key>oneeighth</key>
+	<index>323</index>	<key>threeeighths</key>
+	<index>324</index>	<key>fiveeighths</key>
+	<index>325</index>	<key>seveneighths</key>
+	<index>326</index>	<key>toleft</key>
+	<index>327</index>	<key>toright</key>
+	<index>328</index>	<key>c_t</key>
+	<index>329</index>	<key>l_l</key>
+	<index>330</index>	<key>longs_longs_i</key>
+	<index>331</index>	<key>longs_longs_l</key>
+	<index>332</index>	<key>longs_h</key>
+	<index>333</index>	<key>longs_longs</key>
+	<index>334</index>	<key>longs_i</key>
+	<index>335</index>	<key>longs_l</key>
+	<index>336</index>	<key>cross</key>
+	<index>337</index>	<key>idotaccent</key>
+	<index>338</index>	<key>oxfordarm1</key>
+	<index>339</index>	<key>oxfordarm2</key>
+	<index>340</index>	<key>leaf</key>
+	<index>341</index>	<key>TFT</key>
+	<index>342</index>	<key>f_f</key>
+	<index>343</index>	<key>fi</key>
+	<index>344</index>	<key>fl</key>
+	<index>345</index>	<key>f_f_i</key>
+	<index>346</index>	<key>f_f_l</key>
+	<index>347</index>	<key>longs_t</key>
+	<index>348</index>	<key>zerosmall</key>
+	<index>349</index>	<key>onesmall</key>
+	<index>350</index>	<key>twosmall</key>
+	<index>351</index>	<key>threesmall</key>
+	<index>352</index>	<key>foursmall</key>
+	<index>353</index>	<key>fivesmall</key>
+	<index>354</index>	<key>sixsmall</key>
+	<index>355</index>	<key>sevensmall</key>
+	<index>356</index>	<key>eightsmall</key>
+	<index>357</index>	<key>ninesmall</key>
+	<index>358</index>	<key>Grave</key>
+	<index>359</index>	<key>Acute</key>
+	<index>360</index>	<key>Circumflex</key>
+	<index>361</index>	<key>Tilde</key>
+	<index>362</index>	<key>Dieresis</key>
+	<index>363</index>	<key>Ring</key>
+	<index>364</index>	<key>Caron</key>
+	<index>365</index>	<key>Macron</key>
+	<index>366</index>	<key>Breve</key>
+	<index>367</index>	<key>Dotaccent</key>
+	<index>368</index>	<key>Hungarumlaut</key>
+	<index>369</index>	<key>leftquoteaccent</key>
+	<index>370</index>	<key>rightquoteaccent</key>
+</collection>
+<group id="1" xpos="40" ypos="29.5" baseline="10.5" lineheight="181.41" curpos="132.29" ltr="1">
+<gitem>
+<xpos>21.71</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>33.62</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>46.56</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>93.89</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>129.12</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>0</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>4.7</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>8.52</xpos>
+<ypos>10.5</ypos>
+<key>d</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>13.01</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>15.33</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>19.9992</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>23.73</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>25.54</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>29.27</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>32.28</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>35.16</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>36.97</xpos>
+<ypos>10.5</ypos>
+<key>u</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>41.32</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>45.9892</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>49.72</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>51.53</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>55.8792</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>59.23</xpos>
+<ypos>10.5</ypos>
+<key>g</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>63.61</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>67.43</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>72.13</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>74.45</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>77.46</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>81.28</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>84.16</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>86.48</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>90.86</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>95.56</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>97.37</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>101.19</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>104.54</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>107.42</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>109.74</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>112.75</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>115.63</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>117.95</xpos>
+<ypos>10.5</ypos>
+<key>q</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>122.4</xpos>
+<ypos>10.5</ypos>
+<key>u</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>126.75</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>130.48</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+</group>
+<group id="2" xpos="40" ypos="40" baseline="10.5" lineheight="181.41" curpos="126.26" ltr="1">
+<gitem>
+<xpos>0</xpos>
+<ypos>10.5</ypos>
+<key>q</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>4.45</xpos>
+<ypos>10.5</ypos>
+<key>u</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>8.8</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>11.12</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>12.93</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>16.28</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>20.01</xpos>
+<ypos>10.5</ypos>
+<key>m</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>26.7392</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>30.47</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>33.35</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>35.16</xpos>
+<ypos>10.5</ypos>
+<key>c</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>39.04</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>43.42</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>48.12</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>51.13</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>54.01</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>57.83</xpos>
+<ypos>10.5</ypos>
+<key>m</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>64.59</xpos>
+<ypos>10.5</ypos>
+<key>m</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>71.3192</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>75.05</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>79.7017</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>82.58</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>84.39</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>88.12</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>92.82</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>94.63</xpos>
+<ypos>10.5</ypos>
+<key>q</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>99.08</xpos>
+<ypos>10.5</ypos>
+<key>u</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>103.43</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>107.16</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>110.17</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>113.05</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>115.37</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>119.75</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>124.45</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+</group>
+<group id="3" xpos="40" ypos="50.5" baseline="10.5" lineheight="181.41" curpos="152.07" ltr="1">
+<gitem>
+<xpos>0</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>3.01</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>6.83</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>8.64</xpos>
+<ypos>10.5</ypos>
+<key>m</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>15.4</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>19.22</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>23.92</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>26.24</xpos>
+<ypos>10.5</ypos>
+<key>egrave</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>29.97</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>33.32</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>37.05</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>38.86</xpos>
+<ypos>10.5</ypos>
+<key>d</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>43.35</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>47.08</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>48.89</xpos>
+<ypos>10.5</ypos>
+<key>f</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>51.7204</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>56.1</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>60.7692</xpos>
+<ypos>10.5</ypos>
+<key>c</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>64.65</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>67.53</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>69.85</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>74.23</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>78.93</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>83.5992</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>87.33</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>90.68</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>92.49</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>96.31</xpos>
+<ypos>10.5</ypos>
+<key>f</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>99.18</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>101.5</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>106.2</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>108.01</xpos>
+<ypos>10.5</ypos>
+<key>d</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>112.5</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>116.23</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>118.04</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>121.39</xpos>
+<ypos>10.5</ypos>
+<key>eacute</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>125.12</xpos>
+<ypos>10.5</ypos>
+<key>p</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>129.64</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>134.02</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>138.694</xpos>
+<ypos>10.5</ypos>
+<key>d</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>143.18</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>146.53</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>150.26</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+</group>
+<group id="4" xpos="40" ypos="61" baseline="10.5" lineheight="181.41" curpos="116.76" ltr="1">
+<gitem>
+<xpos>0</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>3.82</xpos>
+<ypos>10.5</ypos>
+<key>u</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>8.17</xpos>
+<ypos>10.5</ypos>
+<key>x</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>12.59</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>14.4</xpos>
+<ypos>10.5</ypos>
+<key>p</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>18.8848</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>22.23</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>26.05</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>28.93</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>31.25</xpos>
+<ypos>10.5</ypos>
+<key>q</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>35.7</xpos>
+<ypos>10.5</ypos>
+<key>u</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>40.05</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>43.78</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>46.79</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>48.6</xpos>
+<ypos>10.5</ypos>
+<key>d</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>53.09</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>56.82</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>59.83</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>61.64</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>65.46</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>68.81</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>71.69</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>74.01</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>77.02</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>79.9</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>83.63</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>86.64</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>88.45</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>92.27</xpos>
+<ypos>10.5</ypos>
+<key>c</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>96.15</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>99.03</xpos>
+<ypos>10.5</ypos>
+<key>u</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>103.38</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>107.11</xpos>
+<ypos>10.5</ypos>
+<key>l</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>109.81</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>112.82</xpos>
+<ypos>10.5</ypos>
+<key>period</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>114.95</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+</group>
+<group id="5" xpos="40" ypos="71.5" baseline="10.5" lineheight="181.41" curpos="162.26" ltr="1">
+<gitem>
+<xpos>0</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>4.7</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>8.52</xpos>
+<ypos>10.5</ypos>
+<key>d</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>13.01</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>15.33</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>19.9992</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>23.73</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>25.54</xpos>
+<ypos>10.5</ypos>
+<key>p</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>30.0248</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>33.37</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>37.75</xpos>
+<ypos>10.5</ypos>
+<key>p</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>42.27</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>46.65</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>49.66</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>53.39</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>55.2</xpos>
+<ypos>10.5</ypos>
+<key>d</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>59.69</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>62.01</xpos>
+<ypos>10.5</ypos>
+<key>f</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>64.88</xpos>
+<ypos>10.5</ypos>
+<key>f</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>67.7192</xpos>
+<ypos>10.5</ypos>
+<key>eacute</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>71.45</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>74.8</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>78.53</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>83.1817</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>86.06</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>89.07</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>90.88</xpos>
+<ypos>10.5</ypos>
+<key>c</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>94.76</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>98.58</xpos>
+<ypos>10.5</ypos>
+<key>d</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>103.07</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>106.42</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>110.15</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>113.16</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>114.97</xpos>
+<ypos>10.5</ypos>
+<key>d</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>119.46</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>123.28</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>127.98</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>130.99</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>132.8</xpos>
+<ypos>10.5</ypos>
+<key>l</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>135.469</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>139.2</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>142.21</xpos>
+<ypos>10.5</ypos>
+<key>q</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>146.66</xpos>
+<ypos>10.5</ypos>
+<key>u</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>151.01</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>154.74</xpos>
+<ypos>10.5</ypos>
+<key>l</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>157.44</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>160.45</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+</group>
+<group id="6" xpos="40" ypos="82" baseline="10.5" lineheight="181.41" curpos="165.77" ltr="1">
+<gitem>
+<xpos>0</xpos>
+<ypos>10.5</ypos>
+<key>d</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>4.49</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>8.22</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>11.23</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>13.04</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>16.86</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>20.21</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>23.09</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>25.41</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>28.42</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>31.3</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>35.03</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>38.04</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>39.85</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>43.58</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>46.46</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>48.27</xpos>
+<ypos>10.5</ypos>
+<key>c</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>52.15</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>56.4948</xpos>
+<ypos>10.5</ypos>
+<key>l</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>59.2</xpos>
+<ypos>10.5</ypos>
+<key>l</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>61.8692</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>65.6</xpos>
+<ypos>10.5</ypos>
+<key>c</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>69.48</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>72.36</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>74.68</xpos>
+<ypos>10.5</ypos>
+<key>f</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>77.55</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>80.56</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>82.37</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>85.38</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>89.76</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>94.4117</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>97.29</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>99.1</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>101.42</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>106.08</xpos>
+<ypos>10.5</ypos>
+<key>v</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>110.04</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>112.325</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>115.21</xpos>
+<ypos>10.5</ypos>
+<key>eacute</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>118.94</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>121.95</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>123.76</xpos>
+<ypos>10.5</ypos>
+<key>agrave</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>127.58</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>129.39</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>132.27</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>135.62</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>139.409</xpos>
+<ypos>10.5</ypos>
+<key>v</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>143.37</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>147.19</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>149.51</xpos>
+<ypos>10.5</ypos>
+<key>l</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>152.21</xpos>
+<ypos>10.5</ypos>
+<key>l</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>154.879</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>158.61</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>161.828</xpos>
+<ypos>10.5</ypos>
+<key>period</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>163.96</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+</group>
+<group id="7" xpos="40" ypos="92.5" baseline="10.5" lineheight="181.41" curpos="168.05" ltr="1">
+<gitem>
+<xpos>0</xpos>
+<ypos>10.5</ypos>
+<key>C</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>5.99</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>9.72</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>12.73</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>14.54</xpos>
+<ypos>10.5</ypos>
+<key>f</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>17.3704</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>21.7192</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>25.07</xpos>
+<ypos>10.5</ypos>
+<key>m</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>31.83</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>35.65</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>38.53</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>41.54</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>43.35</xpos>
+<ypos>10.5</ypos>
+<key>d</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>47.84</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>51.57</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>53.38</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>56.73</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>60.46</xpos>
+<ypos>10.5</ypos>
+<key>c</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>64.34</xpos>
+<ypos>10.5</ypos>
+<key>h</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>69.0292</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>72.76</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>76.0792</xpos>
+<ypos>10.5</ypos>
+<key>c</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>79.96</xpos>
+<ypos>10.5</ypos>
+<key>h</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>84.6492</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>88.38</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>90.19</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>93.2</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>97.58</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>102.232</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>105.11</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>106.92</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>110.74</xpos>
+<ypos>10.5</ypos>
+<key>c</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>114.62</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>117.5</xpos>
+<ypos>10.5</ypos>
+<key>u</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>121.85</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>125.58</xpos>
+<ypos>10.5</ypos>
+<key>l</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>128.28</xpos>
+<ypos>10.5</ypos>
+<key>l</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>130.949</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>134.68</xpos>
+<ypos>10.5</ypos>
+<key>m</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>141.409</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>145.14</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>149.792</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>152.67</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>154.48</xpos>
+<ypos>10.5</ypos>
+<key>l</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>157.18</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>159.5</xpos>
+<ypos>10.5</ypos>
+<key>eacute</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>163.23</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>166.24</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+</group>
+<group id="8" xpos="40" ypos="103" baseline="10.5" lineheight="181.41" curpos="158.08" ltr="1">
+<gitem>
+<xpos>0</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>3.82</xpos>
+<ypos>10.5</ypos>
+<key>u</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>8.17</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>9.98</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>12.86</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>16.59</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>19.94</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>23.29</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>25.5748</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>28.46</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>32.84</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>35.16</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>38.51</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>42.24</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>44.05</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>47.78</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>50.66</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>52.47</xpos>
+<ypos>10.5</ypos>
+<key>agrave</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>56.29</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>58.1</xpos>
+<ypos>10.5</ypos>
+<key>l</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>60.8</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>64.62</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>66.43</xpos>
+<ypos>10.5</ypos>
+<key>p</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>70.95</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>74.68</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>78.03</xpos>
+<ypos>10.5</ypos>
+<key>f</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>80.8604</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>85.2092</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>88.56</xpos>
+<ypos>10.5</ypos>
+<key>m</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>95.32</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>99.14</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>103.809</xpos>
+<ypos>10.5</ypos>
+<key>c</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>107.69</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>111.42</xpos>
+<ypos>10.5</ypos>
+<key>comma</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>113.85</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>115.66</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>119.39</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>122.27</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>124.08</xpos>
+<ypos>10.5</ypos>
+<key>p</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>128.565</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>131.91</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>135.64</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>140.34</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>145.009</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>148.74</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>153.392</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>156.27</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+</group>
+<group id="9" xpos="40" ypos="113.5" baseline="10.5" lineheight="181.41" curpos="158.71" ltr="1">
+<gitem>
+<xpos>0</xpos>
+<ypos>10.5</ypos>
+<key>l</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>2.7</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>6.52</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>8.33</xpos>
+<ypos>10.5</ypos>
+<key>f</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>11.1604</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>15.5092</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>18.86</xpos>
+<ypos>10.5</ypos>
+<key>m</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>25.5892</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>29.32</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>31.13</xpos>
+<ypos>10.5</ypos>
+<key>d</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>35.62</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>39.35</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>41.16</xpos>
+<ypos>10.5</ypos>
+<key>p</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>45.6448</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>48.99</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>53.37</xpos>
+<ypos>10.5</ypos>
+<key>j</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>55.54</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>59.27</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>62.15</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>65.16</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>66.97</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>69.98</xpos>
+<ypos>10.5</ypos>
+<key>p</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>74.5</xpos>
+<ypos>10.5</ypos>
+<key>eacute</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>78.23</xpos>
+<ypos>10.5</ypos>
+<key>c</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>82.11</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>84.43</xpos>
+<ypos>10.5</ypos>
+<key>f</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>87.3</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>89.62</xpos>
+<ypos>10.5</ypos>
+<key>q</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>94.07</xpos>
+<ypos>10.5</ypos>
+<key>u</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>98.42</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>102.15</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>105.16</xpos>
+<ypos>10.5</ypos>
+<key>comma</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>107.59</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>109.4</xpos>
+<ypos>10.5</ypos>
+<key>d</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>113.89</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>117.62</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>119.43</xpos>
+<ypos>10.5</ypos>
+<key>w</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>125.17</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>129.519</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>132.826</xpos>
+<ypos>10.5</ypos>
+<key>k</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>137.29</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>140.3</xpos>
+<ypos>10.5</ypos>
+<key>h</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>144.989</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>149.37</xpos>
+<ypos>10.5</ypos>
+<key>p</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>153.89</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>156.9</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+</group>
+<group id="10" xpos="40" ypos="124" baseline="10.5" lineheight="181.41" curpos="146.12" ltr="1">
+<gitem>
+<xpos>0</xpos>
+<ypos>10.5</ypos>
+<key>p</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>4.52</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>8.9</xpos>
+<ypos>10.5</ypos>
+<key>u</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>13.25</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>16.6</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>18.41</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>22.23</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>25.58</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>28.46</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>30.78</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>33.79</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>36.67</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>40.4</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>43.41</xpos>
+<ypos>10.5</ypos>
+<key>comma</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>45.84</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>47.65</xpos>
+<ypos>10.5</ypos>
+<key>d</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>52.14</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>55.87</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>57.68</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>61.03</xpos>
+<ypos>10.5</ypos>
+<key>eacute</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>64.76</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>67.77</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>70.09</xpos>
+<ypos>10.5</ypos>
+<key>d</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>74.58</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>78.31</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>82.9792</xpos>
+<ypos>10.5</ypos>
+<key>c</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>86.86</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>90.59</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>93.6</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>95.41</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>98.42</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>100.705</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>103.59</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>107.32</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>109.13</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>112.14</xpos>
+<ypos>10.5</ypos>
+<key>p</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>116.66</xpos>
+<ypos>10.5</ypos>
+<key>eacute</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>120.39</xpos>
+<ypos>10.5</ypos>
+<key>c</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>124.27</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>126.59</xpos>
+<ypos>10.5</ypos>
+<key>f</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>129.46</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>131.78</xpos>
+<ypos>10.5</ypos>
+<key>q</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>136.23</xpos>
+<ypos>10.5</ypos>
+<key>u</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>140.58</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>144.31</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+</group>
+<group id="11" xpos="40" ypos="134.5" baseline="10.5" lineheight="181.41" curpos="104.74" ltr="1">
+<gitem>
+<xpos>7.22</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>71.5</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>100.92</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>118.75</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>128.7</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>156.43</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>7.22</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>71.5</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>100.92</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>118.75</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>128.7</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>156.43</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>7.22</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>71.5</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>100.92</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>118.75</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>128.7</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>6.61</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>63.02</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>92.44</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>108.82</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>118.8</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>1e-08</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>3.73</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>6.61</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>8.42</xpos>
+<ypos>10.5</ypos>
+<key>d</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>12.91</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>16.64</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>18.45</xpos>
+<ypos>10.5</ypos>
+<key>p</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>22.9348</xpos>
+<ypos>10.5</ypos>
+<key>r</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>26.28</xpos>
+<ypos>10.5</ypos>
+<key>eacute</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>30.01</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>33.02</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>36.75</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>41.4017</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>44.28</xpos>
+<ypos>10.5</ypos>
+<key>a</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>48.1</xpos>
+<ypos>10.5</ypos>
+<key>t</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>50.98</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>53.3</xpos>
+<ypos>10.5</ypos>
+<key>o</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>57.68</xpos>
+<ypos>10.5</ypos>
+<key>n</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>62.38</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>65.39</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>67.2</xpos>
+<ypos>10.5</ypos>
+<key>p</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>71.72</xpos>
+<ypos>10.5</ypos>
+<key>u</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>76.07</xpos>
+<ypos>10.5</ypos>
+<key>b</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>80.2404</xpos>
+<ypos>10.5</ypos>
+<key>l</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>82.94</xpos>
+<ypos>10.5</ypos>
+<key>i</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>85.26</xpos>
+<ypos>10.5</ypos>
+<key>q</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>89.71</xpos>
+<ypos>10.5</ypos>
+<key>u</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>94.06</xpos>
+<ypos>10.5</ypos>
+<key>e</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>97.79</xpos>
+<ypos>10.5</ypos>
+<key>s</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>100.8</xpos>
+<ypos>10.5</ypos>
+<key>period</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>102.93</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+</group>
+<group id="12" xpos="40" ypos="144.5" baseline="10.5" lineheight="181.41" curpos="159.13" ltr="1">
+<gitem>
+<xpos>36.75</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>42.38</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>61.3</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>101.12</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>141.02</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>157.32</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>36.75</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>42.38</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>61.3</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>101.12</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>141.02</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>157.32</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+</group>
+<group id="13" xpos="40" ypos="145" baseline="10.5" lineheight="181.41" curpos="0" ltr="1">
+</group>
+<group id="14" xpos="40" ypos="155.5" baseline="10.5" lineheight="181.41" curpos="144.62" ltr="1">
+<gitem>
+<xpos>36.75</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>42.38</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>61.3</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>101.12</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>141.02</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>157.32</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>8.43</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>16.98</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>53.24</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>58.87</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>75.39</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>81.02</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>106.87</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>142.81</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+</group>
+<group id="15" xpos="40" ypos="166" baseline="10.5" lineheight="181.41" curpos="182.2" ltr="1">
+<gitem>
+<xpos>22.42</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>30.63</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>49.27</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>59.3</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>92.53</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>123.06</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>136.72</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+<gitem>
+<xpos>147.37</xpos>
+<ypos>10.5</ypos>
+<key>.null</key>
+<from>IM FELL DW PicaRegular (9)</from>
+</gitem>
+</group>
+<cursor xpos="40" ypos="187"/><lineh>10.5</lineh><linew>181.41</linew>
+</undertype>
