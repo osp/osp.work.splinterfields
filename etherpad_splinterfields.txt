@@ -1,0 +1,291 @@
+Git repository:
+git clone git@git.constantvzw.org:osp.work.splinterfields
+see the files on the web: http://osp.constantvzw.org/work/splinterfields/
+Undertype:
+http://home.gna.org/undertype/
+some in progress notes -> http://lib.fo.am/undertype_notes
+INSTALL:
+git clone git://git.constantvzw.org/osp.tools.undertype.git
+cd osp.tools.undertype.git
+mkdir build
+cd build
+qmake ..
+make
+cd bin
+RUN THE SOFTWARE
+./undertype
+Pictures
+(photos Foam Flickr)
+http://www.flickr.com/photos/foam/8719040903/in/photostream/
+http://www.flickr.com/photos/foam/7119212885/in/set-72157629913044157
+http://www.flickr.com/photos/foam/6992441328/in/set-72157629913044157/lightbox/
+http://www.flickr.com/photos/foam/6171682225/in/set-72157627602399971
+http://www.flickr.com/photos/foam/5869810944/in/set-72157627043921736
+http://www.flickr.com/photos/foam/8391955454/in/set-72157632551715904
+(patterns)
+http://www.123rf.com/photo_577877_abstract-background-of-3d-blue-splinters.html
+http://www.pawfal.org/dave/blog/wp-content/uploads/2011/08/IMAG0345.jpg
+http://www.123rf.com/photo_4656371_close-up-rusty-old-metal-and-splinters-of-glass-to-background.html
+http://www.jacksonglass.co.uk/wp-content/uploads/2012/05/broken-glass1.jpg
+http://www.shutterstock.com/pic-362861/stock-photo-smashed-shattered-glass-window-pane-gunshot-cracks-shards-splinters-pattern.html
+http://chrisladroue.com/wp-content/uploads/2011/03/largenetwork.jpg
+http://us.123rf.com/400wm/400/400/seamartini/seamartini1206/seamartini120600025
+http://www.freeimageslive.co.uk/files/images003/halftonelarge.jpg
+http://www.flickr.com/photos/foam/6309850624/in/set-72157627920255945
+http://www.networkweaving.com/blog/uploaded_images/ArtTechNet-701564.gif
+(maps of brussels)
+http://www.geo.ulg.ac.be/old/wwwroot2/eduweb/city-promotion/nl/bruxelles/cartes/cartes.html
+http://www.sanderusmaps.com/content/images/kaarten/site_162970-4384.jpg
+http://www.stanza.co.uk/emergentcity/wp-content/uploads/2010/03/stanza_gps_map.jpg (GPS map of Bristol 2003 -> somthing like this, but map of Brussels?)
+(mycelium)
+http://upload.wikimedia.org/wikipedia/commons/d/d1/20100916_011605_Mycelium.jpg
+http://2.bp.blogspot.com/_-xDCOhtRz8E/S94r1UiAUzI/AAAAAAAACnI/aOjGtH978VI/s1600/Plate-II-Mycelium-And-Early-Vegetation-Of-A-Mushroom.jpg
+http://upload.wikimedia.org/wikipedia/commons/e/eb/20100815_1818_Mold.jpg
+Laidout:
+http://www.youtube.com/watch?v=godPpd1RVHM&list=PL22F7148142927C13
+http://laidout.org
+Paper:
+38x24cm
+1 pli
+8x 38cm
+colonnes 7x
+languages
+NL width= 7cm / 198.42pt - Colm
+FR width= 6,4cm / 181,41pt - Pierre, Steph
+EN width= 5,8cm / 164,40pt - Nik
+[---------- t h i s     wi  d e ----164,40pt--------------]
+Font:
+IM Fell D Pica: http://www.google.com/fonts/specimen/IM+Fell+DW+Pica 
+font size/lineheight: 9pt/10.5pt
+WHO TYPES WHAT?
+Intro NL Colm
+Intro FR Steph
+Intro EN nik
+Constant NL
+Constant FR Sarah
+Constant EN nik
+Okno NL
+Okno FR pierre.m
+Okno EN
+FoAM NL
+FoAM FR Steph
+FoAM EN
+nadine NL
+nadine FR sarah
+nadine EN
+Splinterfields events & flyer
+Contacts:
+- loes@nadine.be
+- FoAM Brussels <bxl@fo.am>
+- Annemie <annemie@okno.be>
+- info@imal.org (are they still involved?)
+- an@constantvzw.org
+- wendy@constantvzw.org
+Planning:
+- meeting: 26-4 @ 16h
+- all info on this page by 1-6: eventueel enkel maand vermelden en niet preciese datum?
+- 15-6: all info to graphical designer, A4-flyer
+- 24-6: Nadine prints: 100 per organisatie -> 500ex
+- 29-6: distribution flyer (persoonlijk)
++ online communicatie: apart luik met alle info op pers website & workshops van anderen opnemen in communicatie
+Tasks: Who does what?
+- editorial & translation work: EN/NL/FR (FOAM, Nadine, imal Constant)
+- graphic design / OSP
+- reservations service : per organisatie
+- printing: Nadine
+- budget: lay-out & paper
+Activities workshops/participatief
+--------------------
+GENERAL
+[With the support of / met de steun van / avec le soutien de: logo's VG & VGC]
+[EN]
+Splinterfields is an initiative fostering 
+collaborative and agile learning through a 
+programme of workshops, study groups and 
+field tests. It is open to artists, designers, 
+technologists and other generalists curious 
+to explore tools and mindware for experiments
+in contemporary culture and daily life. 
+Splinterfields is organised by Constant, 
+FoAM, nadine and OKNO, four Brussels-based
+organisations active in the fields of 
+technological and media arts. 
+[NL] Splinterfields moedigt gezamenlijk en flexibel leren 
+aan met een programma van workshops, studiegroepen
+en veldwerk. Kunstenaars, vormgevers, avant-gardisten
+en andere geïnteresseerden zijn welkom om te
+experimenteren met tools en mindware in de kunst en
+het dagelijks leven. Splinterfields is een initiatief van
+Constant, FoAM, nadine en OKNO, vier Brusselse
+culturele organisaties die werken rond technologie
+en media. 
+[FR] 
+Splinterfields encourage l'apprentissage collaboratif et agile à travers
+un programme d'ateliers, de groupes d'étude et
+d'expérimentations sur le terrain. L'intiative 
+est ouverte aux artistes, designers, technologistes et 
+autres généralistes curieux d'explorer des outils et du 
+mindware pour mener des expérimentations au sein 
+de la vie culturelle et quotidienne contemporaine. 
+Splinterfields est organisé par Constant, FoAM, 
+nadine et OKNO, quatre organisations basées 
+à Bruxelles et actives dans les domaines des arts 
+numériques et des médias. 
+nadine
+DEFAULT #1: Mobile Studio for Artists
+15-8-2013 → 15-9-2013
+http://nadine.be/project/peregrini/default-1-more-information
+Contact: default@nadine.be 
+[EN] nadine is an artistic organisation that moves within constantly changing artistic practices through continuous questioning of itself. nadine encourages alternative research formats for artists and collectives to work with. Currently these formats have been evolving into projects about mobility and performance, workshops for artists, site-specific residencies and public presentations. 
+Default is a straight line, a fold in a map of Europe. The fold determines the direction and defines the journey of discovery for several pioneering bikers, who are driven by sun, wind and muscles. The artistic caravan explores and accentuates a new culture of travelling with nomadic technologies. Artists, designers, technologists and collectors are invited to pursue their artistic practice whilst travelling by bike through Europe from the north of Ireland to the south of Portugal. 
+[NL] nadine is een artistieke organisatie die haar werking continu blijft bevragen naargelang veranderende artistieke praktijken. nadine biedt diverse onderzoekskaders waarbinnen kunstenaars of collectieven uitgenodigd worden te werken. Momenteel nemen deze formats de vorm aan van projecten rond mobiliteit en performance, workshops voor kunstenaars, in situ residenties en publieke presentaties.
+Default is een rechte lijn, een vouw in een kaart van Europa. De vouw bepaalt de richting en bakent het landschap af voor fietsende pioniers, aangedreven door zon, wind en spieren. Deze artistieke karavaan onderzoekt een nieuwe reiscultuur met mobiele technologieën. Kunstenaars, ontwerpers, technologen en verzamelaars kunnen tijdens deze fietsreis door Europa hun artistiek werk ontwikkelen, van in het noorden van Ierland tot in het zuiden van Portugal. 
+[FR] 
+nadine est une organisation artistique 
+qui remet constamment en question 
+sa manière de fonctionner afin de répondre 
+aux pratiques des artistes actuels. 
+nadine propose différents cadres dans lesquels 
+des artistes et collectifs sont invités à travailler. 
+Ces formats de recherche sont actuellement liés 
+au territoire et à la performance, et prennent 
+la forme de projets spécifiques, de workshops 
+pour artistes, de résidences site spécifique 
+et de présentations publiques. 
+Default est une ligne droite, un pli d'une carte 
+du réseau ferroviaire européen. Le pli crée la
+ direction et définit le territoire visité par 
+des pionniers utilisant le soleil, le vent 
+et leur corps comme source d’énergie 
+et moyen de transport. Cette caravane 
+artistique aiguise et affermit une culture 
+de déplacement et des technologies nomades. 
+Les artistes, designers, technologistes 
+et collectionneurs prenant part au voyage 
+travaillent à leurs recherches respectives tout 
+en se déplaçant à vélo à travers l'Europe, 
+depuis le nord de l’Irlande jusqu'au sud du Portugal.
+FoAM
+Biochymickal Arts
+13-9-2013 → 15-9-2013
+http://fo.am/biochymickal-arts/
+Contact: info@fo.am
+[EN] FoAM is a cultural laboratory reimagining possible futures at the interstices of art, science, nature and everyday life. FoAM is a dynamic entity that can change shape and scale as required. We can be a transdisciplinary organisation in the morning, a tightly-knit family at lunchtime, a learning facility in the afternoon, a loose bunch of philosophers in the evening and a dedicated designers’ collective by night. Most of FoAM's activities happen in our studios – hybrids that meld together laboratories, ateliers and living rooms. We are organised as a distributed network concentrated in Europe and Australasia, with bases and nodes (people, projects and organisations) spread across the globe.
+Biochymickal Arts explores emerging technological arts through the lens of preindustrial crafts and contemporary sciences. In this workshop we get our hands dirty with bio-hacking as we learn the fundamentals of biochemistry and the craft of fermentation. By entangling abstract scientific concepts with hands-on experiments, we aim to better grasp the basics of our tools and techniques, breathe new life into forgotten crafts, and viscerally experience the underlying interconnectedness of the arts, sciences and technologies. 
+[NL] FoAM is een cultureel laboratorium dat mogelijke toekomstbeelden herdenkt in de tussenruimtes van kunst, wetenschap, natuur en het dagelijkse leven. FoAM is een dynamische entiteit, die haar vorm en schaal kan aanpassen. 's Ochtends kunnen we een transdisciplinaire organisatie zijn, tijdens de lunch een hechte familie, in de namiddag een plek die leren faciliteert, 's avonds een luchtige bende filosofen en 's nachts een toegewijd ontwerperscollectief. Het gros van FoAM's activiteiten vindt plaats in onze studio's – een kruising van laboratoria, ateliers en woonkamers. We zijn georganiseerd als een verspreid netwerk, met brandpunten in Europa en Australazië en basissen en knooppunten (mensen, projecten en organisaties) over de hele wereld.
+Biochymickal Arts bekijkt opkomende technologische kunsten door de lens van pre-industriële ambachten en hedendaagse wetenschappen. In deze workshop maken we onze handen vuil aan bio-hacking, terwijl we de grondslagen leren van biochemie en het ambachtelijk proces van fermentatie. Door abstracte wetenschappelijke concepten te betrekken op praktische experimenten, willen we de essentie van onze instrumenten en technieken beter begrijpen, vergeten ambachten nieuw leven inblazen en de onderliggende verbondenheid tussen de kunsten, wetenschappen en technologieën diepgaand ervaren. 
+[FR] 
+FoAM est un laboratoire culturel qui ré-imagine 
+les futurs possibles dans les interstices de l'art, 
+la science, la nature et la vie quotidienne. FoAM est 
+une entité dynamique qui peut changer de forme ou 
+d'échelle selon les besoins. Nous pouvons être une 
+organisation transdisciplinaire le matin, une famille 
+proche au déjeuner, une facilité de formation 
+l'après-midi, une bande joviale de philosophes le soir 
+et un collectif de créateurs dévoués la nuit. 
+La plupart des activités de FoAM ont lieu dans 
+nos studios – croisements de laboratoires, ateliers 
+et salles de séjour. Nous sommes organisés comme 
+un réseau réparti concentré en Europe et Australasie 
+avec des bases et points nodaux (gens, projets et 
+organisations) autour du monde.  
+Biochymickal Arts explore les arts technologiques 
+émergeants à travers le prisme des métiers pré-
+industriels et des sciences contemporaines. Dans cet 
+atelier nous salissons nos mains au contact du 
+bio-hacking en apprenant les principes essentiels 
+de la biochimie et le métier de la fermentation. 
+En tissant des concepts scientifiques abstraits et 
+des expériences pratiques, nous voulons mieux 
+comprendre l'essentiel de nos instruments et 
+techniques, revitaliser des métiers oubliés et faire 
+l'expérience viscérale de l'interconnectivité 
+sous-jacente des arts, sciences et technologies. 
+OKNO
+ALOTOF / Seeds Underground
+14-10-2013 → 20-10-2013
+http://okno.be/
+http://seedsunderground.net/
+Contact: steklo@okno.be 
+[EN] OKNO is an artist-run organisation connecting new media and ecology. It approaches art and culture from a collaborative, DIY and post-disciplinary point of view, discovering new materials and aesthetics in the process. In 2013 OKNO launched ALOTOF (A Laboratory On The Open Fields), an international long-term experiment exploring the potential of open-air modes of creation. Within the scope of ALOTOF, OKNO has invited media artist Shu Lea Cheang for a residency focusing on Seeds Underground.
+For the past two decades, vast areas of farmland have been colonized by genetically manipulated crops. This year in May the European Commission approved a new seed policy subjecting circulation to strict regulation. As an artistic project, Seeds Underground stages seed exchange parties as underground events to raise awareness about these concerning trends. By swapping homegrown seeds, transmitted by nature and fertile with traces of their origins and migration routes, participants can plant them in their own gardens, add them to a location-based online database, and strive to protect biodiversity in the process. In October 2013, Shu Lea's residency at OKNO will draw to a close with a Seeds Underground workshop and exchange party at the OpenGreens rooftop garden.
+[NL] Als organisatie voor en door kunstenaars verbindt OKNO nieuwe media met ecologie. Artistieke processen gebaseerd op samenwerking, onafhankelijkheid en het in elkaar overvloeien van disciplines leiden tot de ontdekking van nieuwe materialen en benaderingen. In 2013 startte OKNO het internationale langetermijnproject ALOTOF (A Laboratory On The Open Fields), een onderzoek naar de mogelijkheden van artistieke creatie in openlucht. In dit kader nodigt OKNO mediakunstenaar Shu Lea Cheang uit voor een residentie rond Seeds Underground.
+Sinds de jaren 90 worden grote hoeveelheden landbouwgebied ingenomen door genetisch gemanipuleerde gewassen. In mei 2013 keurde de Europese Commissie een nieuwe maatregel goed die de omloop van zaden controleert. Seeds Underground is een kunstproject dat mensen uitnodigt om zaden te ruilen tijdens feestelijke ontmoetingen en zo aan bewustmaking wil doen. Door de verkregen zaden, elk met hun herkomst en verhaal, te planten in de eigen tuin en deze nieuwe leefomgeving te registeren in een online databank, proberen deelnemers de biodiversiteit te beschermen. In oktober 2013 sluit Shu Lea haar residentie bij OKNO af met een Seeds Underground workshop en een zadenruil in de OpenGreens daktuin.
+[FR] En tant qu'organisation pour et par les artistes, OKNO relie les nouveaux médias à l'écologie. Des processus artistiques basés sur la collaboration, l'indépendance et la transdisciplinarité génèrent de nouveaux matériaux et approches. En 2013 OKNO a initié le projet international de longue durée ALOTOF (A Laboratory On The Open Fields), une recherche autour des possibilités de création artistique en plein air. C'est dans ce cadre qu'OKNO invite l'artiste numérique Shu Lea Cheang pour une résidence autour de Seeds Underground.
+Depuis les années 90 une énorme quantité de terrains d'agriculture sont occupés par des organismes génétiquement modifiés. En mai dernier, la Commission Européenne a approuvé une nouvelle réglementation qui contrôle la circulation des graines. Seeds Underground est un projet artistique qui vise à conscientiser les gens en les invitant à échanger des graines lors des rencontres festives. Les participants aident à maintenir la biodiversité en semant ces graines auto-récoltées, fournies de leurs origines et leurs histoires, à leur tour dans leur jardin et en enregistrant ce nouvel environnement dans une base de données en ligne. En octobre 2013 Shu Lea clôture sa résidence chez OKNO avec un atelier Seeds Underground et une échange de graines dans le jardin de toiture OpenGreens.
+Constant
+Public Domain Day
+25-1-2014 
+in collaboration with CRIDS Namur & Bibliothèque Royale de Belgique / Koninklijke Bibliotheek van België
+http://www.constantvzw.org/publicdomainday
+Contact: info@constantvzw.org
+[EN]
+Constant is an interdisciplinary arts lab active 
+since 1997. With an interest in the culture and 
+ethics of the World Wide Web, Constant's 
+artistic practice is inspired by the way that 
+technological infrastructures, data exchange 
+and software determine our daily lives. 
+Free software, copyright alternatives and 
+(cyber)feminism are important threads running
+through Constant's activities. 
+Constant organizes workshops, print parties, 
+walks and ‘Verbindingen/Jonctions’ meetings 
+for a public that likes experiments, discussions 
+and all kinds of exchanges.
+Due to the expiration of copyright protection 
+terms on works produced by authors who died 
+several decades earlier, every year on 
+New Year’s Day thousands of works enter the 
+public domain: their content is no longer owned
+or controlled and becomes a common treasure,
+available for anyone to freely use for any 
+purpose. Constant, Crids and the Royal Library
+offer a programme with lectures, discussions, 
+and guided tours on the issues of remixing, 
+digitalisation of knowledge and the public domain.
+
+
+[NL] Constant is een interdisciplinaire werkplaats die zich bezighoudt met de cultuur en ethiek van het web. De artistieke praktijk van Constant wordt geïnspireerd door de manier waarop technologische infrastructuren, data-uitwisseling en software ons dagelijkse leven bepalen. Belangrijke werkterreinen zijn vrije software, alternatieven op auteursrecht en (cyber)feminisme. Constant organiseert regelmatig workshops, print-parties, wandelingen en ‘Verbindingen/Jonctions’-bijeenkomsten voor een publiek dat houdt van experimenten, discussies en uitwisselingen allerhande.
+
+Elk jaar op nieuwjaarsdag komen duizenden artistieke 
+werken vrij in het publieke domein, als gevolg van het 
+auteursrecht dat 70 jaar na de dood van de auteur 
+verloopt. Dit betekent dat hun inhoud niet langer het 
+bezit is van of gecontroleerd wordt door iets of iemand. 
+De werken worden gemeenschappelijke schatten, die 
+door eenieder vrij kunnen worden gebruikt voor 
+eender welk doel. Constant, Crids en de Koninklijke 
+Bibliotheek bieden een programma aan met lezingen, 
+discussies en rondleidingen rond de thema's van 
+het remixen, het digitaliseren van kennis en 
+het publieke domein. 
+
+
+[FR]  
+Constant est un atelier artistique interdisciplinaire, 
+qui se concentre sur la culture et l’éthique du web. 
+La pratique de Constant est inspirée par la manière 
+dont les infrastructures technologiques, les échanges 
+de données et les logiciels déterminent nos vies 
+quotidiennes. Quelques chantiers importants sont
+le logiciel libre, les alternatives au copyright 
+et le (cyber)féminisme. De façon régulière Constant
+organise des ateliers, des print-parties, des balades,
+des performances, des lectures et des rencontres 
+‘Verbindingen/Jonctions’ pour un public qui aime 
+l’expérimentation, la discussion et des échanges 
+de toutes sortes.
+Chaque année, au premier janvier, des milliers 
+d’œuvres d’auteurs décédés il y a des dizaines 
+d’années entrent dans le domaine public. En effet, 
+les œuvres, à l’expiration de leur période 
+de protection du droit d’auteur, deviennent un trésor 
+public, que chacun peut apprécier et utiliser 
+librement. Pour fêter cela, Constant, Crids 
+et la Bibliothèque Royale vous offrent un programme
+de conférences, discussions et tours guidés 
+sur les thèmes du remixage, la digitalisation 
+de la connaissance et le domaine public.
+

@@ -1,0 +1,224 @@
+#Laidout 0.093.1 Document
+saveas /home/svilayphiou/work/osp/osp.work.splinterfields/flyer3-rouge
+imposition SignatureImposition
+  paper
+    name Custom
+    units in
+    width 9.4
+    height 15
+    dpi 360
+    portrait
+  showwholecover no
+  sheetspersignature 1
+  autoaddsheets no
+  insettop    0
+  insetbottom 0
+  insetleft   0
+  insetright  0
+  tilegapx 0
+  tilegapy 0
+  tilex 1
+  tiley 1
+  numhfolds 1
+  numvfolds 2
+  fold 1 Right #0
+  fold 2 Right #1
+  fold 1 Top #2
+  binding Bottom
+  trimtop    0
+  trimbottom 0
+  trimleft   0
+  trimright  0
+  margintop    0.225
+  marginbottom 0.225
+  marginleft   0.225
+  marginright  0.225
+  up Top
+  positivex Right
+  positivey Top
+page 0
+  labeltype -1
+  layer 0
+    id Group1608
+page 1
+  labeltype -1
+  layer 0
+    id Group6608
+    kids
+      matrix 1 0 0 1 0 0
+      id Group6608
+      visible
+      prints
+      object 0 ImageData
+        id ImageData1451
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/barre-print.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/barre.png"
+          width 49
+          height 2106
+          matrix 0.00139164888 0 -0.001237216166 0.001536291538 2.84322645 -0.2237691838
+          description ""
+page 2
+  labeltype -1
+  layer 0
+    id Group6609
+    kids
+      matrix 1 0 0 1 0 0
+      id Group6609
+      visible
+      prints
+      object 0 ImageData
+        id ImageData1453
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/screw4Noir.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/screw.png"
+          width 668
+          height 182
+          matrix -0.003146925726 0.001987843393 -0.002777260662 5.359661008e-05 3.110938098 -0.2808569748
+          description ""
+page 3
+  labeltype -1
+  layer 0
+    id Group6610
+    kids
+      matrix 1 0 0 1 0 0
+      id Group6610
+      visible
+      prints
+      object 0 ImageData
+        id ImageData4504
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/couv-rouge-print.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/1aadb12217b7d8db9fddaee1e80c4cd1.png"
+          width 947
+          height 4529
+          matrix -0.002777772415 5.458417913e-06 -5.458417913e-06 -0.002777772415 2.957465565 6.360790041
+page 4
+  labeltype -1
+  layer 0
+    id Group10314
+    kids
+      matrix 1 0 0 1 0 0
+      id Group10314
+      visible
+      prints
+      object 0 ImageData
+        id ImageData5959
+        config
+          width 0
+          height 0
+          matrix 0.002634722889 0 0 0.002634722889 0.144516876 2.525918109
+page 5
+  labeltype -1
+  layer 0
+    id Group10315
+    kids
+      matrix 1 0 0 1 0 0
+      id Group10315
+      visible
+      prints
+      object 0 ImageData
+        id ImageData2790
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/foam.gif"
+          previewfile "/home/svilayphiou/.thumbnails/large/55e87bf8a05415a914639dbd50636fea.png"
+          width 1139
+          height 2543
+          matrix -0.0013976038 0 0.0006561742372 -0.001372234529 1.70865104 2.785147132
+page 6
+  labeltype -1
+  layer 0
+    id Group10316
+page 7
+  labeltype -1
+  layer 0
+    id Group10317
+    kids
+      matrix 1 0 0 1 0 0
+      id Group10317
+      visible
+      prints
+      object 0 ImageData
+        id ImageData1455
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/hachure.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/hash.png"
+          width 910
+          height 1796
+          matrix 0.001764320605 0 -0.0006092551864 0.001811174932 1.324757738 -3.026325064
+          description ""
+page 8
+  labeltype -1
+  layer 0
+    id Group10318
+    kids
+      matrix 1 0 0 1 0 0
+      id Group10318
+      visible
+      prints
+      object 0 ImageData
+        id ImageData15028
+        config
+          width 0
+          height 0
+          matrix 0.009166666667 0 0 0.009166666667 2.163695833 2.717280482
+page 9
+  labeltype -1
+  layer 0
+    id Group6611
+page 10
+  labeltype -1
+  layer 0
+    id Group6612
+    kids
+      matrix 1 0 0 1 0 0
+      id Group6612
+      visible
+      prints
+      object 0 ImageData
+        id ImageData5048
+        config
+          width 0
+          height 0
+          matrix 0.009166666667 0 0 0.009166666667 0.2977093718 1.4031913
+page 11
+  labeltype -1
+  layer 0
+    id Group6613
+    kids
+      matrix 1 0 0 1 0 0
+      id Group6613
+      visible
+      prints
+      object 0 ImageData
+        filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/screw3Noir.png"
+        previewfile "/home/svilayphiou/.thumbnails/large/40c7cfe677810457b145357b524a9cb0.png"
+        width 668
+        height 239
+        matrix 0.003736780804 -0.007715829062 0.002777695742 2.134822688e-05 -0.09742301608 2.203734728
+limbo Limbo 1
+  id Group1609
+  kids
+    matrix 1 0 0 1 0 0
+    id Group1609
+    visible
+    prints
+    object 0 ImageData
+      id ImageData7689
+      config
+        width 0
+        height 0
+        matrix 0.007280188213 0 0 0.007280188213 -1.305080356 1.761342319
+window
+  xywh 2 23 1276 775
+  pane
+    xyxy 0 0 1276 774
+    window ViewWindow
+      document /home/svilayphiou/work/osp/osp.work.splinterfields/flyer3-rouge
+      layout Papers
+      spread 1
+      page 2
+      matrix -53.94540982 -2.208785056e-14 -2.208785056e-14 53.94540982 543.7170816 159.9141673
+      xbounds -8.5 17
+      ybounds -5.5 16.5
+      limbo Limbo 1

@@ -1,0 +1,500 @@
+#Laidout 0.093.1 Document
+saveas /home/svilayphiou/work/osp/osp.work.splinterfields/flyer3-bleu
+imposition SignatureImposition
+  paper
+    name Custom
+    units in
+    width 9.4
+    height 15
+    dpi 360
+    portrait
+  showwholecover no
+  sheetspersignature 1
+  autoaddsheets no
+  insettop    0
+  insetbottom 0
+  insetleft   0
+  insetright  0
+  tilegapx 0
+  tilegapy 0
+  tilex 1
+  tiley 1
+  numhfolds 1
+  numvfolds 2
+  fold 1 Right #0
+  fold 2 Right #1
+  fold 1 Top #2
+  binding Bottom
+  trimtop    0
+  trimbottom 0
+  trimleft   0
+  trimright  0
+  margintop    0.225
+  marginbottom 0.225
+  marginleft   0.225
+  marginright  0.225
+  up Top
+  positivex Right
+  positivey Top
+page 0
+  labeltype -1
+  layer 0
+    id Group1608
+    kids
+      matrix 1 0 0 1 0 0
+      id Group1608
+      visible
+      prints
+      object 0 ImageData
+        id ImageData5394
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/Mold.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/mold.png"
+          width 1000
+          height 1000
+          matrix 0.002703770228 0 0 0.002703770228 0.223691047 0.2274549107
+          description ""
+      object 1 ImageData
+        id ImageData5395
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/Rope2.png"
+          width 1200
+          height 740
+          matrix 0.00223961961 0 0 0.00223961961 0.2269114539 2.927112475
+      object 2 ImageData
+        id ImageData5396
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/Wind.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/wind.png"
+          width 1200
+          height 900
+          matrix 0.002239562724 -7.237049501e-20 7.237049501e-20 0.002239562724 0.2289273397 4.585123891
+          description ""
+page 1
+  labeltype -1
+  layer 0
+    id Group6608
+    kids
+      matrix 1 0 0 1 0 0
+      id Group6608
+      visible
+      prints
+      object 0 ImageData
+        id ImageData1659
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/okno_nl.udl.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/3bef04666c81ec92f9c889308fffe5e8.png"
+          width 834
+          height 1177
+          matrix 0.002777777778 0 0 0.002777777778 0.2266381859 3.032542875
+      object 1 ImageData
+        id ImageData1667
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/titles/oknotitle.png"
+          width 672
+          height 316
+          matrix 0.002777777778 0 0 0.002777777778 1.048241879 6.391590914
+      object 2 ImageData
+        id ImageData5408
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/okno.gif"
+          previewfile "/home/svilayphiou/.thumbnails/large/be9564fa3e2b5e5b828eec1a16ab2a7d.png"
+          width 2880
+          height 2160
+          matrix -5.763430298e-07 0.0009406225906 0.0009406225906 5.763430298e-07 0.8692827984 0.2246477471
+page 2
+  labeltype -1
+  layer 0
+    id Group6609
+    kids
+      matrix 1 0 0 1 0 0
+      id Group6609
+      visible
+      prints
+      object 0 ImageData
+        id ImageData1658
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/Nadine_NL.udl.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/b27f88c0631c2bd31fcd2b7a36e1b0bd.png"
+          width 836
+          height 782
+          matrix 0.002777777778 0 0 0.002777777778 0.2311115635 4.260916269
+      object 1 ImageData
+        id ImageData1669
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/titles/nadinetitle.png"
+          width 801
+          height 261
+          matrix 0.002777777778 0 0 0.002777777778 0.868626425 6.549597441
+      object 2 ImageData
+        id ImageData1452
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/nadine.gif"
+          previewfile "/home/svilayphiou/.thumbnails/large/b2bb9cc3ee525a8c3b5473936dc1918e.png"
+          width 1342
+          height 894
+          matrix 0.002008057031 -1.798051506e-05 1.798051506e-05 0.002008057031 0.2216206306 -0.9932787146
+      object 3 ImageData
+        id ImageData1668
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/nadinefr1.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/209f8664cfc5a8ff54107efd4aef2012.png"
+          width 760
+          height 1085
+          matrix 0.002777777778 0 0 0.002777777778 0.5402367678 1.093032498
+page 3
+  labeltype -1
+  layer 0
+    id Group6610
+    kids
+      matrix 1 0 0 1 0 0
+      id Group6610
+      visible
+      prints
+      object 0 ImageData
+        id ImageData4503
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/screws-blueBleu.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/48f12d93004548a0093f20dff5bd24f7.png"
+          width 934
+          height 2104
+          matrix -0.002777775307 -3.704688209e-06 3.704688209e-06 -0.002777775307 2.910635191 6.078873459
+      object 1 ImageData
+        id ImageData1373
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/logos/nadine.gif"
+          width 198
+          height 97
+          matrix -0.002777777778 0 0 -0.002777777778 2.943268962 7.311114756
+      object 2 ImageData
+        id ImageData4494
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/logos/foam-logo.p0.gif"
+          width 240
+          height 90
+          matrix -0.001854407498 -1.480398238e-05 1.480398238e-05 -0.001854407498 2.263336912 7.271193926
+      object 3 ImageData
+        id ImageData1482
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/logos/oknoBlack.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/3838e129f05e7c258c21d7f18871dd1c.png"
+          width 654
+          height 474
+          matrix -0.0007441404179 0 0 -0.0007441404179 1.56647022 7.353415787
+      object 4 ImageData
+        id ImageData4493
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/logos/constant.png"
+          width 829
+          height 99
+          matrix -0.0009889739319 0 0 -0.0009889739319 1.049076682 7.216849753
+page 4
+  labeltype -1
+  layer 0
+    id Group10314
+    kids
+      matrix 1 0 0 1 0 0
+      id Group10314
+      visible
+      prints
+      object 0 ImageData
+        id ImageData5063
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/titles/constantitle.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/a25dca800670c4186033b3065cb21a67.png"
+          width 720
+          height 479
+          matrix 0.002501865624 1.897318771e-06 -1.897318771e-06 0.002501865624 1.092666942 6.070714976
+      object 1 ImageData
+        id ImageData1651
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/constant_NL.udt.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/e476684ad1f4c97789a98ee176360522.png"
+          width 840
+          height 1052
+          matrix 0.002777777778 0 0 0.002777777778 0.2264790709 3.044669197
+      object 2 ImageData
+        id ImageData1454
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/constant.jpg"
+          previewfile "/home/svilayphiou/.thumbnails/large/0dc1f0c94930bd2aacfdf64934b70c80.png"
+          width 2448
+          height 3264
+          matrix 0.0008390965685 -6.330895616e-06 6.330895616e-06 0.0008390965685 0.8478248235 0.2156178079
+      object 3 ImageData
+        id ImageData5959
+        config
+          width 0
+          height 0
+          matrix 0.002634722889 0 0 0.002634722889 0.144516876 2.525918109
+page 5
+  labeltype -1
+  layer 0
+    id Group10315
+    kids
+      matrix 1 0 0 1 0 0
+      id Group10315
+      visible
+      prints
+      object 0 ImageData
+        id ImageData1666
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/titles/foamtitle.png"
+          width 570
+          height 261
+          matrix 0.002777777778 0 0 0.002777777778 1.320957525 6.55113467
+      object 1 ImageData
+        id ImageData1653
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/foam_NL_p1.udt.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/333f9312316ddad7ac1d5176091c7366.png"
+          width 833
+          height 1174
+          matrix 0.003006726564 1.330477039e-05 -1.330477039e-05 0.003006726564 0.2284738039 2.919460113
+      object 2 ImageData
+        id ImageData4505
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/cube2.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/e97fa7291ce75698df1be6a21667fbce.png"
+          width 1200
+          height 698
+          matrix -2.362404444e-06 -0.002256968421 0.002256968421 -2.362404444e-06 1.335861925 2.757475733
+page 6
+  labeltype -1
+  layer 0
+    id Group10316
+    kids
+      matrix 1 0 0 1 0 0
+      id Group10316
+      visible
+      prints
+      object 0 ImageData
+        id ImageData1654
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/foam_FR.udt.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/e5b29c7d25cfcf8af672cefa1d8bcaae.png"
+          width 769
+          height 1222
+          matrix -0.002777777778 0 0 -0.002777777778 2.646767449 4.03847476
+      object 1 ImageData
+        id ImageData1662
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/foam.p1_EN.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/5cc46905eaa9b751b42181eac61c0c58.png"
+          width 765
+          height 1126
+          matrix -0.002777777778 0 0 -0.002777777778 2.354241858 7.301640755
+page 7
+  labeltype -1
+  layer 0
+    id Group10317
+    kids
+      matrix 1 0 0 1 0 0
+      id Group10317
+      visible
+      prints
+      object 0 ImageData
+        id ImageData1652
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/constantfr1.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/aa28beb8326a4097288b4f37cc8bdbc9.png"
+          width 767
+          height 1174
+          matrix -0.002777777778 0 0 -0.002777777778 2.607825412 3.484719833
+      object 1 ImageData
+        id ImageData1663
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/constant.p1_EN.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/7f397f3e831ecb726f804a3381871bed.png"
+          width 742
+          height 1093
+          matrix -0.002777775698 -3.398982784e-06 3.398982784e-06 -0.002777775698 2.279227743 6.660206506
+page 8
+  labeltype -1
+  layer 0
+    id Group10318
+    kids
+      matrix 1 0 0 1 0 0
+      id Group10318
+      visible
+      prints
+      object 0 ImageData
+        id ImageData15028
+        config
+          width 0
+          height 0
+          matrix 0.009166666667 0 0 0.009166666667 2.163695833 2.717280482
+      object 1 ImageData
+        id ImageData1655
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/Intro_NL.udl.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/de16683137f36ba7658cbb695d2aa373.png"
+          width 810
+          height 380
+          matrix -0.002777777778 0 0 -0.002777777778 2.580302911 1.283181158
+      object 2 ImageData
+        id ImageData1818
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/nadine3.gif"
+          previewfile "/home/svilayphiou/.thumbnails/large/221ca476f585409b98c6f12b58489e28.png"
+          width 1342
+          height 894
+          matrix -0.002554076476 0.001096200795 -0.0009300004444 -0.00216684048 3.210991022 5.238356922
+      object 3 ImageData
+        id ImageData1656
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/intro_FR.udt.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/0bc9d7909ad20765fd0514f3adaaa1f1.png"
+          width 775
+          height 491
+          matrix -0.002585426567 0 0 -0.002585426567 2.399279012 2.709633793
+      object 4 ImageData
+        id ImageData1657
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/general_EN.udl.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/6100307c68bb907656337f0f3b118507.png"
+          width 696
+          height 469
+          matrix -0.002777777778 0 0 -0.002777777778 2.140756888 4.167991784
+      object 5 ImageData
+        id ImageData2103
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/colophon.png"
+          width 1219
+          height 171
+          matrix -0.001658897653 8.409609866e-06 -8.409609866e-06 -0.001658897653 2.912296651 7.277640249
+          description ""
+      object 6 ImageData
+        id ImageData1539
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/logos/vlaamse overheid.gif"
+          previewfile ""
+          width 442
+          height 381
+          matrix -0.0008876702532 0 0 -0.0008876702532 2.23064783 6.841317531
+          description ""
+      object 7 ImageData
+        id ImageData2015
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/logos/vgc_logo2-.gif"
+          width 390
+          height 390
+          matrix -0.001074788614 0 0 -0.001074788614 1.882556962 6.368208013
+page 9
+  labeltype -1
+  layer 0
+    id Group6611
+    kids
+      matrix 1 0 0 1 0 0
+      id Group6611
+      visible
+      prints
+      object 0 ImageData
+        id ImageData1456
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/nadine.p1_EN.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/dd2ddc8d9e3fee874b5ec122b77ad797.png"
+          width 758
+          height 817
+          matrix -0.002777774925 -3.981220353e-06 3.981220353e-06 -0.002777774925 2.326065705 3.42279735
+      object 1 ImageData
+        id ImageData1457
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/nadine4.gif"
+          previewfile "/home/svilayphiou/.thumbnails/large/b1f24d9a94bbd9285ec893af27784bf5.png"
+          width 1342
+          height 894
+          matrix 1.004116786e-05 0.002198537171 -0.002198537171 1.004116786e-05 2.190805462 3.6157431
+page 10
+  labeltype -1
+  layer 0
+    id Group6612
+    kids
+      matrix 1 0 0 1 0 0
+      id Group6612
+      visible
+      prints
+      object 0 ImageData
+        id ImageData1661
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/okno.p1_EN.udl.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/f3667605f50d7907cb6909e10709cb85.png"
+          width 759
+          height 1216
+          matrix -0.002777777364 -1.516657668e-06 1.516657668e-06 -0.002777777364 2.33362483 7.253962631
+      object 1 ImageData
+        id ImageData1660
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/texts/okno_fr.udt.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/7c1663b60441b83e3a1a762ba694e4e6.png"
+          width 807
+          height 1258
+          matrix -0.002777777778 0 0 -0.002777777778 2.658015002 3.736134549
+      object 2 ImageData
+        id ImageData5048
+        config
+          width 0
+          height 0
+          matrix 0.009166666667 0 0 0.009166666667 0.2977093718 1.4031913
+page 11
+  labeltype -1
+  layer 0
+    id Group6613
+    kids
+      matrix 1 0 0 1 0 0
+      id Group6613
+      visible
+      prints
+      object 0 ImageData
+        id ImageData5397
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/stone.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/stones.png"
+          width 1200
+          height 900
+          matrix -0.002243657076 0 0 -0.002243657076 2.90164582 4.239302622
+          description ""
+      object 1 ImageData
+        id ImageData5398
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/frites.png"
+          previewfile "/home/svilayphiou/.thumbnails/large/frites.png"
+          width 1200
+          height 1200
+          matrix 0.002237761615 0 0 0.002237761615 0.2212357294 4.223398187
+          description ""
+      object 2 ImageData
+        id ImageData5399
+        config
+          filename "/home/svilayphiou/work/osp/osp.work.splinterfields/images/foam/7119212885_e3fec7300e_o.gif"
+          previewfile "/home/svilayphiou/.thumbnails/large/bulles.png"
+          width 3264
+          height 2448
+          matrix -0.0008141389595 0 0 -0.0008141389595 2.898915357 2.219632356
+          description ""
+limbo Limbo 1
+  id Group1609
+  kids
+    matrix 1 0 0 1 0 0
+    id Group1609
+    visible
+    prints
+    object 0 ImageData
+      id ImageData7689
+      config
+        width 0
+        height 0
+        matrix 0.007280188213 0 0 0.007280188213 -1.305080356 1.761342319
+window
+  xywh 2 23 1276 775
+  pane
+    xyxy 0 0 1276 774
+    window ViewWindow
+      document /home/svilayphiou/work/osp/osp.work.splinterfields/flyer3-bleu
+      layout Papers
+      spread 1
+      page 2
+      matrix -94.35085893 -3.380281509e-14 -3.380281509e-14 94.35085893 1112.424979 -171.6790327
+      xbounds -8.5 17
+      ybounds -5.5 16.5
+      limbo Limbo 1
